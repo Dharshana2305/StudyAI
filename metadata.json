@@ -1,0 +1,6 @@
+{
+  "name": "StudyAI",
+  "description": "An AI-powered web application for document analysis, smart notes, custom quizzes, performance tracking, and document chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

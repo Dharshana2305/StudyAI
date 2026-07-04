@@ -1,0 +1,900 @@
+{
+  "users": {
+    "guest_tgqt00f4g": {
+      "id": "guest_tgqt00f4g",
+      "email": "guest_tgqt00f4g@studyai.local",
+      "name": "Guest Learner",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=guest_tgqt00f4g",
+      "isGuest": true,
+      "learningScore": 47,
+      "studyTimeMinutes": 4,
+      "streakDays": 1,
+      "createdAt": "2026-07-04T08:55:54.637Z",
+      "passwordHash": ""
+    },
+    "g5jy07ors": {
+      "id": "g5jy07ors",
+      "email": "keerthanakeerthana1193@gmail.com",
+      "name": "KEERTHANA",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=KEERTHANA",
+      "isGuest": false,
+      "learningScore": 47,
+      "studyTimeMinutes": 2,
+      "streakDays": 1,
+      "createdAt": "2026-07-04T14:24:08.490Z",
+      "passwordHash": "keerthanakeerthana1193"
+    },
+    "guest_cxoiwpetj": {
+      "id": "guest_cxoiwpetj",
+      "email": "guest_cxoiwpetj@studyai.local",
+      "name": "Guest Learner",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=guest_cxoiwpetj",
+      "isGuest": true,
+      "learningScore": 10,
+      "studyTimeMinutes": 0,
+      "streakDays": 1,
+      "createdAt": "2026-07-04T14:46:18.510Z",
+      "passwordHash": ""
+    },
+    "guest_sg5mcvjzw": {
+      "id": "guest_sg5mcvjzw",
+      "email": "guest_sg5mcvjzw@studyai.local",
+      "name": "Guest Learner",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=guest_sg5mcvjzw",
+      "isGuest": true,
+      "learningScore": 10,
+      "studyTimeMinutes": 0,
+      "streakDays": 1,
+      "createdAt": "2026-07-04T16:47:39.100Z",
+      "passwordHash": ""
+    },
+    "luu44wefe": {
+      "id": "luu44wefe",
+      "email": "dharshana23052005@gmail.com",
+      "name": "Dharshana",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=Dharshana",
+      "isGuest": false,
+      "learningScore": 0,
+      "studyTimeMinutes": 0,
+      "streakDays": 1,
+      "createdAt": "2026-07-04T16:48:52.783Z",
+      "passwordHash": "dharshana23052005"
+    },
+    "guest_43j67r6w7": {
+      "id": "guest_43j67r6w7",
+      "email": "guest_43j67r6w7@studyai.local",
+      "name": "Guest Learner",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=guest_43j67r6w7",
+      "isGuest": true,
+      "learningScore": 10,
+      "studyTimeMinutes": 0,
+      "streakDays": 1,
+      "createdAt": "2026-07-04T17:11:10.982Z",
+      "passwordHash": ""
+    },
+    "guest_xayvjav32": {
+      "id": "guest_xayvjav32",
+      "email": "guest_xayvjav32@studyai.local",
+      "name": "Guest Learner",
+      "avatarUrl": "https://api.dicebear.com/7.x/bottts/svg?seed=guest_xayvjav32",
+      "isGuest": true,
+      "learningScore": 10,
+      "studyTimeMinutes": 0,
+      "streakDays": 1,
+      "createdAt": "2026-07-04T17:33:50.855Z",
+      "passwordHash": ""
+    }
+  },
+  "documents": [
+    {
+      "id": "oa59x575g",
+      "userId": "guest_tgqt00f4g",
+      "title": "UNIT 1 SPM.docx",
+      "fileType": "docx",
+      "fileSize": 223707,
+      "uploadDate": "2026-07-04T08:56:45.722Z",
+      "extractedText": "DEFINITION OF SOFTWARE ENGINEERING\n\nWhat is Software Engineering?\n\nSoftware Engineering is the process of designing, developing, testing, and maintaining software. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software.\n\nSoftware engineering includes a variety of techniques, tools, and methodologies, including requirements analysis, design, testing, and maintenance.\n\nIt is a rapidly evolving field, and new tools and technologies are constantly being developed to improve the software development process.\n\nBy following the principles of software engineering and using the appropriate tools and methodologies, software developers can create high-quality, reliable, and maintainable software that meets the needs of its users.\n\nSoftware Engineering is mainly used for large projects based on software systems rather than single programs or applications.\n\nThe main goal of Software Engineering is to develop software applications for improving quality,  budget, and time efficiency.\n\nSoftware Engineering ensures that the software that has to be built should be consistent, correct, also on budget, on time, and within the required requirements.\n\n\n\nSOFTWARE PROJECT VS OTHER TYPES OF PROJECTS\n\nMany of the techniques of general project management are applicable to software project management. One way of perceiving software project management is as the process of making visible that which is invisible. \n\nInvisibility: When a physical artifact such as a bridge or road is being constructed the progress being made can actually be seen. With software, progress is not immediately visible.\n\nComplexity: Software products contain more complexity than other engineered artifacts. \n\nConformity: The ‘traditional’ engineer is usually working with physical systems and physical materials like cement and steel. These physical systems can have some complexity, but are governed by physical laws that are consistent. Software developers have to conform to the requirements of human clients. It is not just that individuals can be inconsistent. \n\nFlexibility: The ease with which software can be changed is usually seen as one of its strengths. However, this means that where the software system interfaces with a physical or organizational system, it is expected that, where necessary, the software will change to accommodate the other components rather than vice versa. This means the software systems are likely to be subject to a high degree of change. \n\nAn example for infrastructure project is construction of a flyover. An example for a software project is development of a payroll management system for an organization using Oracle l0g and Oracle Forms 10G.\n\nKEY ACTIVITIES IN SOFTWARE PROJECT MANAGEMENT\n\n\n\nFeasibility Study\n\nThis is an investigation into whether a prospective project is worth starting. Information is gathered about the requirements of the proposed application. The probable developmental and operational costs, along with the value of the benefits of the new system, are estimated. The study could be part of a strategic planning exercise examining and prioritizing a range of potential software developments.\n\nPlanning\n\n\tIf the feasibility study produces results which indicate that the prospective project appears viable, planning of the project can take place. However, for a large project, we would not do all our detailed planning right at the beginning. We would formulate an outline plan for the whole project and a detailed one for the first stage. More detailed planning of the later stages would be done as they approached. This is because we would have more detailed and accurate information upon which to base our plans nearer to the start of the later stages.\n\n\n\n\n\n\n\n\n\nProject Execution (Do it)\n\n\n\nRequirements Analysis: \n\nThis is finding out in detail what the users require of the system that the project is to implement. Some work along these lines will almost certainly have been carried out when the project was evaluated, but now the original information obtained needs to be updated and supplemented.\n\nSpecification: \n\nDetailed documentation of what the proposed system is to do. \n\nDesign: \n\nA design has to be drawn up which meets the specification. This design will be in two stages. One will be the external or user design concerned with the external appearance of the application. The other produces the physical design which tackles the way that the data and software procedures are to be structured internally. \n\n\n\nArchitecture Design: This maps the requirements to the components of the system that is to be built. At the system level, decisions will need to be made about which processes in the new system will be carried out by the user and which can be computerized. This design of the system architecture thus forms an input to the development of the software requirements. A second architecture design process then takes place which maps the software requirements to software components. \n\nDetailed Design: Each software component is made up of a number of software units that can be separately coded and tested. The detailed design of these units is carried out separately. \n\nCoding: \n\nThis may refer to writing code in a procedural language or an object oriented language or could refer to the use of an application-builder. Even where software is not being built from scratch, some modification to the base package could be required to meet the needs of the new application. \n\nVerification and Validation: \n\nWhether software is developed specially for the current application or not, careful testing will be needed to check that the proposed system meets its requirements. \n\nIntegration: The individual components are collected together and tested to see if they meet the overall requirements. Integration could be at the level of software where different software components are combined, or at the level of the system as a whole where the software and other components of the system such as the hardware platforms and networks and the user procedures are brought together. \n\nQualification Testing: The system, including the software components, has to be tested carefully to ensure that all the requirements have been fulfilled. \n\nImplementation/ Installation: \n\nSome system development practitioners refer to the whole of the project after design as ‘implementation’ (that is, the implementation of the design) while others insist that the term refers to the installation of the system after the software has been developed. \n\nMaintenance and Support: \n\nOnce the system has been implemented there is a continuing need for the correction of any errors that may have crept into the system and for extensions and improvements to the system. Maintenance and support activities may be seen as a series of minor software projects\n\n\n\nSTAKEHOLDERS: \n\nThese are people who have a stake or interest in the project. It is important that they be identified as early as possible, because you need to set up adequate communication channels with them right from the start. The project leader also has to be aware that not everybody who is involved with a project has the same motivation and objectives. The end-users might, for instance, be concerned about the ease of use of the system while their managers might be interested in the staff savings the new system will allow. \n\nStakeholders might be internal to the project team, external to the project team but in the same organization, or totally external to the organization. \n\n• Internal to the project team: This means that they will be under the direct managerial control of the project leader. \n\n• External to the project team but within the same organization: For example, the project leader might need the assistance of the information management group in order to add some additional data types to a database or the assistance of the users to carry out systems testing. Here the commitment of the people involved has to be negotiated. \n\n• External to both the project team and the organization: External stakeholders may be customers (or users) who will benefit from the system that the project implements or contractors who will carry out work for the project. One feature of the relationship with these people is that it is likely to be based on a legally binding contract.\n\nStakeholders play a critical role in software project management by influencing project goals, requirements, decisions, and outcomes at every stage.\n\nStakeholder Roles Explained\n\nStakeholders include anyone with an interest or impact in the project—such as customers, users, project managers, developers, sponsors, and regulatory bodies.\n\nRequirement Definition: Stakeholders help define and clarify the requirements, ensuring the project aligns with business objectives and user needs.\n\nDecision Making: They participate in key project decisions, including scope changes, prioritization, and acceptance criteria.\n\nRisk Management: Stakeholders assist with identifying, assessing, and mitigating project risks by sharing insights on organizational priorities and external constraints.\n\nCommunication: Providing timely feedback and actively communicating helps keep project progress aligned and resolve misunderstandings early.\n\nResource Provision: Sponsors and managers provide budgets, tools, and other resources essential for project execution.\n\nQuality Assurance: End users and quality assurance teams validate whether software solutions meet expectations and standards.\n\nChange Management: Stakeholders facilitate adaptation to changes in requirements, technology, or business strategies throughout the lifecycle.\n\nStakeholder Types and Responsibilities\n\nStakeholder Type\n\nKey Responsibilities\n\nImpact on Project\n\nCustomers\n\nDefine needs, review deliverables\n\nDrive business value\n\nEnd Users\n\nGive feedback, test features\n\nEnsure usability\n\nProject Managers\n\nCoordinate activities, communicate\n\nDeliver on objectives\n\nDevelopers\n\nImplement solutions\n\nAchieve technical goals\n\nSponsors\n\nProvide resources, approve scope\n\nEnsure funding\n\nRegulators\n\nSet compliance criteria\n\nEnsure legal validity\n\n\n\n\n\nREQUIREMENT SPECIFICATION \n\nVery often, especially in the case of product-driven projects, the objectives of the project are carefully defined in terms of functional requirements, quality requirements, and resource requirements. \n\n• Functional requirements: These define what the end-product of the project is to do. \n\n• Quality requirements: There will be other attributes of the application to be implemented that do not relate so much to what the system is to do but how it is to do it. These are still things that the user will be able to experience. They include, for example, response time, the ease of using the system and its reliability. \n\n• Resource requirements: A record of how much the organization is willing to spend on the system. There may be a trade-off between this and the time it takes to implement the system. In general it costs disproportionately more to implement a system by an earlier date than a later one. There may also be a trade-off between the functional and quality requirements and cost. We would all like exceptionally reliable and user-friendly systems which do exactly what we want but we may not be able to afford them. \n\nAll these requirements must be consistent with the business case.\n\n\n\nINFORMATION IN ORGANIZATIONS\n\n In an organization, information is more than just data; it is data that has been processed and organized to provide meaning and context. It is the lifeblood of a company, enabling all key activities from daily operations to long-term strategy. Think of it as the knowledge managers use to understand the company's health, its customers, and the market.\n\nKey Characteristics of Good Information For information to be useful, it must have certain qualities. Imagine trying to navigate using a blurry, outdated map—it wouldn't be very helpful. Similarly, good organizational information should be:\n\nAccurate: The data must be correct and reliable. Inaccurate information can lead to poor decisions and wasted resources.\n\nTimely: The information must be available when it's needed. Receiving last month's sales report today might be too late to make a quick business decision.\n\nRelevant: The information should be directly related to the task at hand. A sales manager doesn't need to see the HR department's staffing details to make a decision about a sales strategy.\n\nComplete: The information should provide a full picture without missing key details.\n\nInformation flows through an organization both vertically (from top management to employees and back) and horizontally (between different departments). This flow is crucial for effective communication and coordination.\n\nCONTROL IN ORGANIZATIONS \n\nControl is one of the most important functions of management. It is the process of making sure that the company's activities and performance align with its goals and standards. Without control, an organization would lack direction and discipline, making it difficult to achieve its objectives. Think of control as a ship's navigation system: it checks the current position, compares it to the destination, and corrects the course as needed.\n\nThe Control Process The control process is a three-step cycle that ensures things stay on track:\n\nSetting Standards: This is the first step, where managers establish clear, measurable goals or performance targets. For a software project, a standard might be to \"deliver 10 new features within one month.\"\n\nMeasuring Performance: Next, managers collect data to measure the actual performance and compare it to the standards. This involves using metrics, reports, and observations. In our example, the manager would track how many features were actually completed in that month.\n\nTaking Corrective Action: If there's a significant difference between the performance and the standard, the manager takes action to fix the problem. If only seven features were completed, the manager might reallocate resources, provide additional training, or adjust the timeline.\n\n\n\nSTEP WISE PLANNING ACTIVITIES\n\nStep\n\nActivity\n\nSub-Activities\n\n0\n\nSelect Project\n\n—\n\n1\n\nIdentify Project Scope and Objectives\n\n1.1 Establish a project authority\n\n1.2 Identify stakeholders\n\n1.3 Modify objectives in light of stakeholder analysis\n\n1.4 Establish methods of communication with all parties\n\n2\n\nIdentify Project Infrastructure\n\n2.1 Establish relationship between project and strategic planning\n\n2.2 Identify installation standards and procedures\n\n2.3 Identify project team organization\n\n3\n\nAnalyze Project Characteristics\n\n3.1 Distinguish the project as either objective- or product-driven\n\n3.2 Analyze other project characteristics\n\n3.3 Identify high-level project risks\n\n3.4 Take into account user requirements concerning implementation\n\n3.5 Select general life-cycle approach\n\n3.6 Review overall resource estimates\n\n4\n\nIdentify Project Products and Activities\n\n4.1 Identify and describe project products (including quality criteria)\n\n4.2 Document generic product flows\n\n4.3 Recognize product instances\n\n4.4 Produce ideal activity network\n\n4.5 Modify ideal to take into account need for stages and checkpoints\n\n5\n\nEstimate Effort for Each Activity\n\n5.1 Carry out bottom-up estimates\n\n5.2 Revise plan to create controllable activities\n\n6\n\nIdentify Activity Risks\n\n6.1 Identify and qualify activity-based risks\n\n6.2 Plan risk reduction and contingency measures where appropriate\n\n6.3 Adjust plans and estimates to take account of risks\n\n7\n\nAllocate Resources\n\n7.1 Identify and allocate resources\n\n7.2 Revise plans and estimates to take account of resource constraints\n\n8\n\nReview / Publicize Plan\n\n8.1 Review quality aspects of project plan\n\n8.2 Document plans and obtain agreement\n\n9/10\n\nExecute Plan / Lower Levels of Planning\n\nThis may require reiteration of the planning process at a lower level\n\n\n\n\n\n\n\nPROJECT EVALUATION\n\nThree major factors will need to be considered in the evaluation of potential projects: technical feasibility, the balance of costs and benefits, and finally the degree of risk associated with the project.\n\n\n\n1.Technical Assessment \n\nTechnical assessment of a proposed system consists of evaluating the required functionality against the hardware and software available. Organizational policy, aimed at the provision of a uniform and consistent hardware/software infrastructure, is likely to place limitations on the nature of technical solutions that might be considered. The constraints will influence the cost of the solution and this must be taken into account in the cost-benefit analysis.\n\n\n\n\n\n\n\n2. Cost–Benefit Analysis\n\nPurpose: To determine whether the benefits of the system outweigh its costs, and to prioritize among multiple potential projects.\n\nSteps in Cost–Benefit Analysis\n\nStep\n\nDescription\n\nStep 1\n\nIdentify and estimate all costs and benefits of carrying out the project and operating the delivered system.\n\n\n\n- Development Costs: Salaries and employment costs for development staff, plus all related expenses.\n\n\n\n- Setup Costs: Costs for implementing the system, including new hardware, equipment, file conversion, recruitment, and training.\n\n\n\n- Operational Costs: Costs of running the system after installation.\n\nStep 2\n\nExpress all costs and benefits in common units (usually monetary) to determine Net Benefit = Total Benefits − Total Costs.\n\n\n\n- Only consider benefits that can be financially quantified.\n\n\n\n- For replacement systems, measure incremental benefits (e.g., sales increase, not total sales).\n\n3. Degree of Risk\n\nEvaluate the potential risks associated with the project, such as:\n\nUncertainty in cost and time estimates.\n\nTechnical challenges.\n\nDependence on external factors or vendors.\n\nThe higher the risk, the more cautious the decision-making should be.",
+      "wordCount": 2655
+    },
+    {
+      "id": "k5n2zr4ch",
+      "userId": "g5jy07ors",
+      "title": "UNIT 1 SPM.docx",
+      "fileType": "docx",
+      "fileSize": 223707,
+      "uploadDate": "2026-07-04T14:24:40.285Z",
+      "extractedText": "DEFINITION OF SOFTWARE ENGINEERING\n\nWhat is Software Engineering?\n\nSoftware Engineering is the process of designing, developing, testing, and maintaining software. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software.\n\nSoftware engineering includes a variety of techniques, tools, and methodologies, including requirements analysis, design, testing, and maintenance.\n\nIt is a rapidly evolving field, and new tools and technologies are constantly being developed to improve the software development process.\n\nBy following the principles of software engineering and using the appropriate tools and methodologies, software developers can create high-quality, reliable, and maintainable software that meets the needs of its users.\n\nSoftware Engineering is mainly used for large projects based on software systems rather than single programs or applications.\n\nThe main goal of Software Engineering is to develop software applications for improving quality,  budget, and time efficiency.\n\nSoftware Engineering ensures that the software that has to be built should be consistent, correct, also on budget, on time, and within the required requirements.\n\n\n\nSOFTWARE PROJECT VS OTHER TYPES OF PROJECTS\n\nMany of the techniques of general project management are applicable to software project management. One way of perceiving software project management is as the process of making visible that which is invisible. \n\nInvisibility: When a physical artifact such as a bridge or road is being constructed the progress being made can actually be seen. With software, progress is not immediately visible.\n\nComplexity: Software products contain more complexity than other engineered artifacts. \n\nConformity: The ‘traditional’ engineer is usually working with physical systems and physical materials like cement and steel. These physical systems can have some complexity, but are governed by physical laws that are consistent. Software developers have to conform to the requirements of human clients. It is not just that individuals can be inconsistent. \n\nFlexibility: The ease with which software can be changed is usually seen as one of its strengths. However, this means that where the software system interfaces with a physical or organizational system, it is expected that, where necessary, the software will change to accommodate the other components rather than vice versa. This means the software systems are likely to be subject to a high degree of change. \n\nAn example for infrastructure project is construction of a flyover. An example for a software project is development of a payroll management system for an organization using Oracle l0g and Oracle Forms 10G.\n\nKEY ACTIVITIES IN SOFTWARE PROJECT MANAGEMENT\n\n\n\nFeasibility Study\n\nThis is an investigation into whether a prospective project is worth starting. Information is gathered about the requirements of the proposed application. The probable developmental and operational costs, along with the value of the benefits of the new system, are estimated. The study could be part of a strategic planning exercise examining and prioritizing a range of potential software developments.\n\nPlanning\n\n\tIf the feasibility study produces results which indicate that the prospective project appears viable, planning of the project can take place. However, for a large project, we would not do all our detailed planning right at the beginning. We would formulate an outline plan for the whole project and a detailed one for the first stage. More detailed planning of the later stages would be done as they approached. This is because we would have more detailed and accurate information upon which to base our plans nearer to the start of the later stages.\n\n\n\n\n\n\n\n\n\nProject Execution (Do it)\n\n\n\nRequirements Analysis: \n\nThis is finding out in detail what the users require of the system that the project is to implement. Some work along these lines will almost certainly have been carried out when the project was evaluated, but now the original information obtained needs to be updated and supplemented.\n\nSpecification: \n\nDetailed documentation of what the proposed system is to do. \n\nDesign: \n\nA design has to be drawn up which meets the specification. This design will be in two stages. One will be the external or user design concerned with the external appearance of the application. The other produces the physical design which tackles the way that the data and software procedures are to be structured internally. \n\n\n\nArchitecture Design: This maps the requirements to the components of the system that is to be built. At the system level, decisions will need to be made about which processes in the new system will be carried out by the user and which can be computerized. This design of the system architecture thus forms an input to the development of the software requirements. A second architecture design process then takes place which maps the software requirements to software components. \n\nDetailed Design: Each software component is made up of a number of software units that can be separately coded and tested. The detailed design of these units is carried out separately. \n\nCoding: \n\nThis may refer to writing code in a procedural language or an object oriented language or could refer to the use of an application-builder. Even where software is not being built from scratch, some modification to the base package could be required to meet the needs of the new application. \n\nVerification and Validation: \n\nWhether software is developed specially for the current application or not, careful testing will be needed to check that the proposed system meets its requirements. \n\nIntegration: The individual components are collected together and tested to see if they meet the overall requirements. Integration could be at the level of software where different software components are combined, or at the level of the system as a whole where the software and other components of the system such as the hardware platforms and networks and the user procedures are brought together. \n\nQualification Testing: The system, including the software components, has to be tested carefully to ensure that all the requirements have been fulfilled. \n\nImplementation/ Installation: \n\nSome system development practitioners refer to the whole of the project after design as ‘implementation’ (that is, the implementation of the design) while others insist that the term refers to the installation of the system after the software has been developed. \n\nMaintenance and Support: \n\nOnce the system has been implemented there is a continuing need for the correction of any errors that may have crept into the system and for extensions and improvements to the system. Maintenance and support activities may be seen as a series of minor software projects\n\n\n\nSTAKEHOLDERS: \n\nThese are people who have a stake or interest in the project. It is important that they be identified as early as possible, because you need to set up adequate communication channels with them right from the start. The project leader also has to be aware that not everybody who is involved with a project has the same motivation and objectives. The end-users might, for instance, be concerned about the ease of use of the system while their managers might be interested in the staff savings the new system will allow. \n\nStakeholders might be internal to the project team, external to the project team but in the same organization, or totally external to the organization. \n\n• Internal to the project team: This means that they will be under the direct managerial control of the project leader. \n\n• External to the project team but within the same organization: For example, the project leader might need the assistance of the information management group in order to add some additional data types to a database or the assistance of the users to carry out systems testing. Here the commitment of the people involved has to be negotiated. \n\n• External to both the project team and the organization: External stakeholders may be customers (or users) who will benefit from the system that the project implements or contractors who will carry out work for the project. One feature of the relationship with these people is that it is likely to be based on a legally binding contract.\n\nStakeholders play a critical role in software project management by influencing project goals, requirements, decisions, and outcomes at every stage.\n\nStakeholder Roles Explained\n\nStakeholders include anyone with an interest or impact in the project—such as customers, users, project managers, developers, sponsors, and regulatory bodies.\n\nRequirement Definition: Stakeholders help define and clarify the requirements, ensuring the project aligns with business objectives and user needs.\n\nDecision Making: They participate in key project decisions, including scope changes, prioritization, and acceptance criteria.\n\nRisk Management: Stakeholders assist with identifying, assessing, and mitigating project risks by sharing insights on organizational priorities and external constraints.\n\nCommunication: Providing timely feedback and actively communicating helps keep project progress aligned and resolve misunderstandings early.\n\nResource Provision: Sponsors and managers provide budgets, tools, and other resources essential for project execution.\n\nQuality Assurance: End users and quality assurance teams validate whether software solutions meet expectations and standards.\n\nChange Management: Stakeholders facilitate adaptation to changes in requirements, technology, or business strategies throughout the lifecycle.\n\nStakeholder Types and Responsibilities\n\nStakeholder Type\n\nKey Responsibilities\n\nImpact on Project\n\nCustomers\n\nDefine needs, review deliverables\n\nDrive business value\n\nEnd Users\n\nGive feedback, test features\n\nEnsure usability\n\nProject Managers\n\nCoordinate activities, communicate\n\nDeliver on objectives\n\nDevelopers\n\nImplement solutions\n\nAchieve technical goals\n\nSponsors\n\nProvide resources, approve scope\n\nEnsure funding\n\nRegulators\n\nSet compliance criteria\n\nEnsure legal validity\n\n\n\n\n\nREQUIREMENT SPECIFICATION \n\nVery often, especially in the case of product-driven projects, the objectives of the project are carefully defined in terms of functional requirements, quality requirements, and resource requirements. \n\n• Functional requirements: These define what the end-product of the project is to do. \n\n• Quality requirements: There will be other attributes of the application to be implemented that do not relate so much to what the system is to do but how it is to do it. These are still things that the user will be able to experience. They include, for example, response time, the ease of using the system and its reliability. \n\n• Resource requirements: A record of how much the organization is willing to spend on the system. There may be a trade-off between this and the time it takes to implement the system. In general it costs disproportionately more to implement a system by an earlier date than a later one. There may also be a trade-off between the functional and quality requirements and cost. We would all like exceptionally reliable and user-friendly systems which do exactly what we want but we may not be able to afford them. \n\nAll these requirements must be consistent with the business case.\n\n\n\nINFORMATION IN ORGANIZATIONS\n\n In an organization, information is more than just data; it is data that has been processed and organized to provide meaning and context. It is the lifeblood of a company, enabling all key activities from daily operations to long-term strategy. Think of it as the knowledge managers use to understand the company's health, its customers, and the market.\n\nKey Characteristics of Good Information For information to be useful, it must have certain qualities. Imagine trying to navigate using a blurry, outdated map—it wouldn't be very helpful. Similarly, good organizational information should be:\n\nAccurate: The data must be correct and reliable. Inaccurate information can lead to poor decisions and wasted resources.\n\nTimely: The information must be available when it's needed. Receiving last month's sales report today might be too late to make a quick business decision.\n\nRelevant: The information should be directly related to the task at hand. A sales manager doesn't need to see the HR department's staffing details to make a decision about a sales strategy.\n\nComplete: The information should provide a full picture without missing key details.\n\nInformation flows through an organization both vertically (from top management to employees and back) and horizontally (between different departments). This flow is crucial for effective communication and coordination.\n\nCONTROL IN ORGANIZATIONS \n\nControl is one of the most important functions of management. It is the process of making sure that the company's activities and performance align with its goals and standards. Without control, an organization would lack direction and discipline, making it difficult to achieve its objectives. Think of control as a ship's navigation system: it checks the current position, compares it to the destination, and corrects the course as needed.\n\nThe Control Process The control process is a three-step cycle that ensures things stay on track:\n\nSetting Standards: This is the first step, where managers establish clear, measurable goals or performance targets. For a software project, a standard might be to \"deliver 10 new features within one month.\"\n\nMeasuring Performance: Next, managers collect data to measure the actual performance and compare it to the standards. This involves using metrics, reports, and observations. In our example, the manager would track how many features were actually completed in that month.\n\nTaking Corrective Action: If there's a significant difference between the performance and the standard, the manager takes action to fix the problem. If only seven features were completed, the manager might reallocate resources, provide additional training, or adjust the timeline.\n\n\n\nSTEP WISE PLANNING ACTIVITIES\n\nStep\n\nActivity\n\nSub-Activities\n\n0\n\nSelect Project\n\n—\n\n1\n\nIdentify Project Scope and Objectives\n\n1.1 Establish a project authority\n\n1.2 Identify stakeholders\n\n1.3 Modify objectives in light of stakeholder analysis\n\n1.4 Establish methods of communication with all parties\n\n2\n\nIdentify Project Infrastructure\n\n2.1 Establish relationship between project and strategic planning\n\n2.2 Identify installation standards and procedures\n\n2.3 Identify project team organization\n\n3\n\nAnalyze Project Characteristics\n\n3.1 Distinguish the project as either objective- or product-driven\n\n3.2 Analyze other project characteristics\n\n3.3 Identify high-level project risks\n\n3.4 Take into account user requirements concerning implementation\n\n3.5 Select general life-cycle approach\n\n3.6 Review overall resource estimates\n\n4\n\nIdentify Project Products and Activities\n\n4.1 Identify and describe project products (including quality criteria)\n\n4.2 Document generic product flows\n\n4.3 Recognize product instances\n\n4.4 Produce ideal activity network\n\n4.5 Modify ideal to take into account need for stages and checkpoints\n\n5\n\nEstimate Effort for Each Activity\n\n5.1 Carry out bottom-up estimates\n\n5.2 Revise plan to create controllable activities\n\n6\n\nIdentify Activity Risks\n\n6.1 Identify and qualify activity-based risks\n\n6.2 Plan risk reduction and contingency measures where appropriate\n\n6.3 Adjust plans and estimates to take account of risks\n\n7\n\nAllocate Resources\n\n7.1 Identify and allocate resources\n\n7.2 Revise plans and estimates to take account of resource constraints\n\n8\n\nReview / Publicize Plan\n\n8.1 Review quality aspects of project plan\n\n8.2 Document plans and obtain agreement\n\n9/10\n\nExecute Plan / Lower Levels of Planning\n\nThis may require reiteration of the planning process at a lower level\n\n\n\n\n\n\n\nPROJECT EVALUATION\n\nThree major factors will need to be considered in the evaluation of potential projects: technical feasibility, the balance of costs and benefits, and finally the degree of risk associated with the project.\n\n\n\n1.Technical Assessment \n\nTechnical assessment of a proposed system consists of evaluating the required functionality against the hardware and software available. Organizational policy, aimed at the provision of a uniform and consistent hardware/software infrastructure, is likely to place limitations on the nature of technical solutions that might be considered. The constraints will influence the cost of the solution and this must be taken into account in the cost-benefit analysis.\n\n\n\n\n\n\n\n2. Cost–Benefit Analysis\n\nPurpose: To determine whether the benefits of the system outweigh its costs, and to prioritize among multiple potential projects.\n\nSteps in Cost–Benefit Analysis\n\nStep\n\nDescription\n\nStep 1\n\nIdentify and estimate all costs and benefits of carrying out the project and operating the delivered system.\n\n\n\n- Development Costs: Salaries and employment costs for development staff, plus all related expenses.\n\n\n\n- Setup Costs: Costs for implementing the system, including new hardware, equipment, file conversion, recruitment, and training.\n\n\n\n- Operational Costs: Costs of running the system after installation.\n\nStep 2\n\nExpress all costs and benefits in common units (usually monetary) to determine Net Benefit = Total Benefits − Total Costs.\n\n\n\n- Only consider benefits that can be financially quantified.\n\n\n\n- For replacement systems, measure incremental benefits (e.g., sales increase, not total sales).\n\n3. Degree of Risk\n\nEvaluate the potential risks associated with the project, such as:\n\nUncertainty in cost and time estimates.\n\nTechnical challenges.\n\nDependence on external factors or vendors.\n\nThe higher the risk, the more cautious the decision-making should be.",
+      "wordCount": 2655
+    },
+    {
+      "id": "omchb7kxv",
+      "userId": "luu44wefe",
+      "title": "ITICS-Unit_1.pptx",
+      "fileType": "pptx",
+      "fileSize": 187966,
+      "uploadDate": "2026-07-04T16:51:14.473Z",
+      "extractedText": "Content_Types Ec0 QJ ZpQqF\n B\riprvzUtf X\rIOmvcrS Cy01\u000bBqYA 8\fTWvU irI5R_u 0C7MDc8\u000bZYwaR oZMO\rLk rels\fO \rH2DreR  fivYxc P I8Pp Jxcy Cd O24\u000bchBa it9\r\u000bu4 6\ndw\nY \u000bvLiFp 4W\u000b2tjcd PFlA\r0 cxEP\u000ba614 \u000b\u000bVDifN PD0tI7\nh jpZr_Xo K\tCgpe HVGhH\u000b zA\rdz \rBIYOp 0x2zB\n7\f 1MAtZfKY\tv 5Z6P\rm Rbq9\tR Z50o2U\r \fX  fh86Ze PVy\tPbt s1j\u000bZ6 P\r4\fy\u000b NPFv\u000bgKU YYXR\u000bb X Whuz Ify\nwPo nA1K WG \u000bQbg\u000bqa  lEW9k_ \tErsPL 14DXv  \u000bibO\u000bqH U\u000b_7EEjj 7_y\rcW1T IHl2Ng_ p\ndkLH KbY FB C\ninoP PM\t5D7G T2E5u\r UO\f12m Nrx\nsi CAh_d\n 0A\rAW0 1y\u000bsoCjV 2 o6T_ HS NQk  2db5\r 9wLr\nb McZX cQ8HgEX\u000b \t\t6paJD f\r50sL \r\rUpxl4 6n5Cj\u000b9 Q\ny_qp oh8\u000b x wLr\nb 5cZXN uTxwB\f o S4z\rC DmX\t \rHZC_\u000b 9e ym1  QLv W  \fGmglZsYZWo h\u000b\r W\r cs4xu\u000bnpIr  avyCg1Whf\u000bp eM\nFMg8 FCKgy6\u000b\u000bEngQZyiu6wWUljWS R64\fRg yi4\rCl sE6\tKt0 ZkeMQKn  \nVhOl\r 3G7h_3 gA3\te\t EN\fgq\r 0l\fbnQl Ezyi5\nb I8\tSxE0Ka aAZLA\nrJ\fb 3\rzX1n \u000bXPAow Wjnx\th h7\u000bKnQ tp6Lr\nqPeqFX \u000bLvfgf k4\u000bE6I vLP4E\r \fzz5zr ZjR2K\t \rDXIaaX  B j9do dD3\nAm 35P\r60T _9IpCuM lh0u xG 52G\t526F J_ \fW1qS melF\u000bjp 0fk0B\fq ck4xu\u000bN8Wy 1CkEkF0jv\nYt Y\fsEtOR \npVR6\ru 2St1\u000b3 9U6\fpseCdeJ x\fVJrx4SV KWw2E\u000b z2r_Vf Trl\tK\rT3 RscB\u000bJ sCWS\rC T5D0IVj\f0n TkQlzq\fG gOTpV\f h\u000b3 K 1V 7Blh8\f y gUj\ngi 2er\fnI\tid 5Z7D_T \u000b8XAo\u000b hKX\ndIz ohRju\rm fP\frEx ETW\nWTW oj\rdCzd YNVo1Z\t7X xy\t32\u000bC sOoDF1\n 6xkTZ\u000b\rg Q\f82DO \nEG3M\nx _ljp2 \n9 Cu0_mk  G\nPV\n Kvo\f8ppjl0 n5au\rzUL _C\fMbS DQU\nlD Z \fOhN \rbSoKUEEhQ 3b\tWfFl9u b_THs4XDa Q\f38L\u000b I3\fnV8nU_\rW A\nNE2W\t q\u000bHyI0N MC0H2_ SZ\u000beaj9zxL  umNDr cYx\nDL  p 5DKb9 PnM\u000bp\n \rZswe1 MQ6Q\nTHJ5 h5e\rV3Yi 2E5tcZ_Si XRgW\nR swv7a_Q oIze\tY2 b 8AXbEjyaR\rFq uLE2C\n \fsw V\u000b \u000blO40\nPF  0tTkE uXj\tDP dMI82\rHB0 9CeEH\rD GD\ttajH YbdG\u000b0 \r\n_cWV x\tZOvSq jw\nqC0 2zigy_ _tdWk\u000b VU\fZw5 D\u000bCV5v 3Ya_FI4\nsu1N c\u000b926G nm_vZt d5XH\r\f0 H\nm9a02 \tXXAow \rRHOshn \f2gRXxZQ \f6ZVh\u000b5  C\rlQt u \twy96Pgw gvNpH3\u000b w_NdB3 RaG0Z3  G_l74  \tSDO3dngqh 9T4PB\u000b MH_dyh p\nn28N FPt\u000bR5 \n25Nnat pd4jB\f 0oE\rfpoNcy PsdY\u000beY u0M3 \f pucg9T\f  KJu\u000bR KkM7X\f bd B\u000bQR ZtVuh\n01 Prx6y\nd JWJ_jSQy7 \tTAl8U y8vs8\f 3uch2\u000bb8W5N6OE jR77EP  XXj\r_hr lkD3\nX hT\rfLMDnO ij\t0jRR GKt\nWPf \u000b2rKX9Q \u000bohthxh_kQh6 \u000b J\n6gm3EO lg\nenc F4m2o5\u000bEy5F\n ET\r3ijFA4p 0kgd7\fw svF4S_WlGk 9A7r\rJj G_EvO9z NGy\ns2 RmGoHRmy\rip8  y\tr\rwC C4ysk\u000bW Q\frR4GD S\ro9e5 ieNXgec\rZA7 5LwPraxf\u000bJ ynxr\fWT \rq5NR4H \u000bFQZ_y YIJ\n7Y  \fs6gw E\rXKwzmq _eEnoR4vk  qnhh1 dzXJJ\f pZi\r8_ gs NBI 03Jx\tTuOpA4 v\rYcxCl \r ADJNu awId\nj G\taIZu 2_2_6CJ\n YU7w\u000bk6Hm s9Dco\tF WPNT\u000bkk NJVt \fXB \u000b\u000bXuTOg 7k6\rrB9g Kx KJZ  Ol0JB EXY\nY P \nte\fn3U _E1rtc \tiomUO q \fp4LS \u000bC YECU J\u000bwODR \u000bdN5pd m\nWdSVV sHMpO\f 1\nneV2 \t_BLOFybgE2uK jD aYE r_bKNZ W rf\f7Pm Hl H4M cMvU\tT iTIVTrq0OHwCH\tTv7C SoD5wfjW_ 0nugUkN\u000bu Yu_TvUrAQj Qv \fXB kfPZps_ OJ\r6wfTPWii  2db3s \u000b BCqT SMj\u000blI xmlLV_o W yUKOj OoXVmf\rk CilQb\f FFb4Z\r RSVt\rU s2vdFe_wj tW 0fzA wX\u000bGGVSRT Jb2\tW_ hlvwpO\fd C\rUlGi TZ7\fSl mYXo IV1 Vf9_UElGI4s EuxQ\u000bnn \u000b Cb\f2 \rzoBSDz7yG\tUrt \n\fJh\t4 pno\nwj  TouhX\tw Sv\u000bei5 O4k\u000bK\nn Sq_7IKFpN ItuU_3zGG 068QHue\r0B O\f\f8z _dg WxQsN\u000b\u000b UEEZV\t Np_ar8\tdqX PrZT_5b FFb4Z\r RSVt\rU m\tT5gsG N8 \ffV y4u\u000b Lr eYTM\n pS0H E\rfxC\fA p kk\nK2e4 CNPhwjqe\r NjP\fqY \ndHJ1Qt Ea2O\u000bli \rW\tNx9 I  Bpc tEz3NhC\r IRz9\fR V\u000b3EgAFZ5\r 0\r34L\nt Rq\u000b0ziK 9l9\taS 0lyF\rEJcb sz\ncB7 3__Az53 5Rrv\u000b7 D53l\rSh7e mMh\nNQ vP\u000b4gZp TV6\u000b044b51g f6JWDB_ C\fqB5o GPEtyG S2CwO rSovW\n1 \u000b J\n6cmN S6r\u000bLQB \fMQoWM 3V6lMh\r0 R1_\rGIR i\u000bVgz21PAo_ \tdIJ1Qt vW\n1\npr t\rDhyV 6Gdh_\n 6n\n12s4 ax7\r\rFMzv HF\tQt_wHI1 w\fD8kN MF1N3 \f 5o4\r_\rL8w  2db3\r X5fQRkeQ\r UM\u000bZQg zdTeU FVaTj5\u000b 3FzN7  \rLgqwV \rFbK1F 7GW\tn2b I5ZBU\fB d_QaZ \nrl s 6Kg0\nF K\u000bOMMB\nSX \n5Vxoo iD\fD3do9AFB2 Jw_B8z MmVmpOS\tztn Ap4\fCx SrikfS  Y_CKh\fZh 4SV\r64Rh pRWKRtb_ n O3WOG1 PGt\rb5 qxY6lP_ 1N1O\fEGD otmZH\rmg Ybgy2u\u000b g\fU\fhidF 0p6P\ncB pIw Aw\tqA E\u000bIfgaRxIr vSb4t\u000ba U\u000bfH9zZ 7\rplK6 Ntdm\ntFJ h1_\u000bAH A\t c\u000bir9 0uoVz\txS L6uoY_uB rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR e7 eKU rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR J H4KG5tqC jhH\ram\t v\fFscK  rels\fO \r1tHx_ rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR _6O 8b48 U kq7_K rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR On J6m wrMS\neFAW4x dturN\tX \t3W7lHrm7XfG _srheSsK 2\rG1ow _ ZcEoB YhxZbi\t L\nqo\u000b8l rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew xdn17_ 1tU2\u000bb g\nP\f4mfCSM 6_cG R xyc_3D ywu\npa0eX _gR03i h2\fbqdF 9\u000bt8pSA 4kwQ WZ RhUk_E LQ\rBY3 Yb\rvpF88z Ail0\t1 0w 4kEV vaIQP M DhZ4\njJkH tc7R\u000bT \f\nt \r49o qNKH_02EU\t zg_Tib \f\fHR4Sjc WW4R__ ZAry dyIxZ1 fES\rn\u000b Y8\u000blKq \fDtF2DZb vD_sBeBi6E Ah\fBgh c pVk6R xhGE M\na1 PUuC\nzf LKbRRpn\ncqbz HLJK63_6XB\t uMhcy\u000bX _\u000bmR8U HRjB\rN\u000bJ3 Q\fb JP 5x\nyeV4\t \fIBKTKI Lx0MXwBw8aLg\fv c6YKx_Y E9dd\nPw GVu4r\fQPu\f 1C\fzPb 7\nFauH5 NxEB\u000bvlD Mdq\tm5 7_Irlj KIRHS\rd ryGwr_Do Nu\f123M E\rGHYc YM36Ivy\f5Y e wfYL Vm3XETdIg\rU PgO_uVG7 y\n5kMy Ua\nIjGLI 0CK2SVL\t W\u000bum36Ez QDlF1nS \rTkW 6\fcQhp 9ezes_ B I2jGi0q 0w 4kEV \u000bLYMFF JFthM9h\r \txsjEkk uMATOMo8MLibGfbei0\r o8\fwkV VuF\u000bHR s4b_2M mP\u000bHSk bJ\n238 rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew xmllYQ\u000b 3IBQ\fY Q3ctN\r  cbFOhI l\nYFSA\n00GS S\n\tZtSIT t\nPlRht_G cO1G9 8 _F3Bymr XhM47l E t_aUJw \rVgm1A fR\tdkB _fLKweF47AC C_izAC png\tPNG\r\n ZQRR0\fV Op\t\tyv FV\fey8 dYWb4\t4 rx8w\rDF R\rjiJQA \rpNEeP v\r\fM\fp I7\u000bw7Y  AIzd5 W IMN\f Ocg_Es3 \tA9BTK3\nq tAk\f1O 0s4\rL7f 5pWf2\n \u000bpwJN_ x5tg\nM\t6S i\rUrS\nz co6v9n\ff PR\u000bw\frG __3Bb  w1_9\u000bQr7X uRd\tkB Vd8F2D\n 4e\nE6p_\fz yXghv\u000by o\fRdQi hK_AxOEi p7ir\u000bW GjI9w l bMw\rOQs \fu5YOxp \nNqpUiPf Zeal2\u000b  sF3lL0 SSOs _L Fr1_DtPB OIDHUW_ \nO3EEV Vu5F\toE  AoFn6 \nWNE3N _1hEjIlg ZfvD2s_ SEZO2G\t \fGx7\nU TMWq2u\n 9h6fs\f yP_nyX v7 mvh \u000bX\t\rUXlq png\tPNG\r\n \fAzzzv CjaLFB_E  kknGhylHzJ_VP \rBGtuS E0_Tcj Dt44vWn    9EbUDwwFkE XxGGg_GTVX8A Ur\fD0Dk Aw\tS\f2 Hq\nZXBM gY2OdH\r sWq k\r V6bEKrSbgB3t_gvi t_BMx9 iBlR\r8 aL2pg\t a17Gq\f t81 cGz _grMnsY \nqV\r1t7 i\u000bmWkL e\r1A19CU iOwRc1_a YM67\u000bKy\f 7fHpj\f\ta\t OXpYg\n sVJ6p2\rZ s\t_HEe Pj\f\noYv R 1DyUKbXb mg7lhj\r qtuu\u000b0Gx1\u000b87\r5 w\rrgP  hS\nZK8 N5\rMf9n uS2_BM atYC\r\r\r Wx\tpp8 F8d_Gp U\f\r\n0Dx hABOw\f yC8Lk\r Lo\r_Ao IN54\r P lNrF_\t\tsgN fnOD_\t ci\rzfg p\rVMgOo hgCYz  F1\tulX1 55_ERngRf 5Asg\t0 Xu\u000bjkk \fFuRwY qq\fDFzhUkyf f\nDR9E\r \rOA4yA \ts\nIjCEYXH K\fW8qTF nk\f6kiXNAw \u000bpj\nMBr \nyg9d2 an\naEY\f \r5\rcjd \f 2Mz1zeG mXC 9sN \nI3Pb1 IC\nj\tcZg K1Mj2\r Vg\nmDdEuBs z\u000bGg57OjA \nu\tGQRi0v4 yQi3f\rXO XHBj9t\r Iq\nZXBMG\u000bX QLwqT\r \u000brjBzK \u000bVcSFqq\f FDpm\r\neVZe EN5OY\nzY W6_Zvas CDzfS_d 30\ffMy q\r\tX\ngc E5t10\fM \fpueoZL f a\nXX MjyrXv\f R__W7n  \u000bXYG6O K\u000b_a3K1Qu 5yr6f\u000b 7Po\t7g \nm_3fNN9 BDz\rFRs0 lkz\u000bey p\nw _\rXo LqeF\rrf \ra\tsJOt D8Z7p_ xZXF\rh\r2 0q\noh\fd KIdoIp\n S\nKM7PVA9 ZmZoM\tDi \fX c\rX 0_fEeKi\fk2Y n\n51H\fk D\rFV4H oz \u000b31n XSY\u000bkeG 5l\n8\r\u000bb p\u000bK\u000be1 eTVb\u000bYY U\t\tU6\t 8WCV f oni5 KBDBFf f\r6MXt dIiSK5\u000b7r 9UXk \rtD yor\rfU 4HOYdd\rq v\u000b\u000bIaC EtKfSK4ba\u000bk_ \r3dQ\rX oRQW\t7 3_Opxc SU7i\fa O30\fr\n hrX\nBR \t\nkW6J 2\u000bbjfO FUSgE\u000b V5eU\tIi\t S\rtpv\u000bf Nzvj0Lp\nN E\tUfT\u000b \fvc Vc _c d qN XfW1_3 2vlYs4\r7n YwPRXp\f DRUa\t\n0 J\nw4J\t  P_aif VNyUxB2\u000bL uRJwCC3\f 2dREq4RY\tRn \tD\na4ga0 Cs\tO5N\n \nu48T8eu EFVmL\tC_jf1tkG o4J\nK5HLR 0\fdiSS XiOV\t\u000b\u000bYTV QzN75bzz\nBZ7 B\rss\r8g FLQb k VV2z\nmg \nkdfMz303 \nW\t\nFUw o4RR AU\u000b SR\ftt\r _\nKnwF Bj\frl2 kw1M\tyE kOxb\tx5XXDh 5N1Sb G a3 CEwf  2afxE nV\u000bGirJE6 CgNLp\nT \tOo_uBA0G\f\t 4LgnN\u000b e\fWX8j g\u000bX4ye Y\tRYGk B6_fBIY \u000bp5m8r\n\f rj\nqU4 Vz\ri80r Ox\fqEx nbeUvWz\r fcZ\u000bHd \n2\n22QQ \trFDU\t Rinlh\f Z\n42\nQQ 0\fizxI \rL\rfrLp\n D25\re\reM 0\f63Rm 99j2Y8j\fW \r5YXXNJ I N2YN \fA4h\u000bQ \nVG4VERJ \tZNNPY KJ__0YZ Yg\nHU6 aLAAb\r jf c8y U40P_\u000b1agS 8FL 82 9h\nUUe T\ttdH3 K\nkMCkV b5uu\ru\r\f v_Z\n4zy X8\tMe5 M_pxpa \r\tU2ozea BLVI4p\f2 y8Ses_ b6ce\rFyE 6sU\nd\u000bO Hr\nV9_I UaeII\tE e\fWXin kQysX\t5MUU VTXmz\f Qa\rv\rv\fn kp\rtvNa X_\fxtfa JR0Z_imk 2\u000bLlCBR e\fWX8j 0A\rjjRZ Sau\tUV y5h4\u000bsW jq\tyVw xg7\fK3\t 0jkWO\tsq 9F\t\ticq 0cne\fvG0 Qy8_KXGpO A\fobfV aQppj4V2\fR R\tXEEs 1\tqAmek 65\rBA2xUG 7w8_1lw inphAVu\tIeu \u000bHmFAv p6cw 0 UXgJN 0 KyuT\rT TWAL_28 Kn\nEv_b iFEmVk0\fr\nV escodh\n UzE\rjY r\nbB\f\u000b3 74k0\fr\n \u000bB\u000bpuJfkRh Cr\u000bMTM SdUC_zcvOF808q Z\fHzDapX \tOFF808qS C\nkcg6w w1g6\u000bvKf UXim L stS\n0ZR \f0OkUcjH 808M60\fsJ pOcwl6\t Qa\rsfp Fe\rFyE 4Vfi\u000bX pDa\u000b5y p2ncq\fGCpXc3 \u000bANpwhp VVlk\u000b5QCYrmm 0Ff\rcI HHea\u000bB Hk1AR\f S8h\r5y Zg1aw\f d\t8bA0 Hsp_E0 B_pVm8q 7 8mDaA d6\f5cp  Ib1ah",
+      "wordCount": 1736
+    },
+    {
+      "id": "02iivbfq2",
+      "userId": "guest_43j67r6w7",
+      "title": "ITICS-Unit_2.pptx",
+      "fileType": "pptx",
+      "fileSize": 129191,
+      "uploadDate": "2026-07-04T17:11:30.021Z",
+      "extractedText": "Content_Types KUUr1\r MRMLUW\nk 8Ha\rYVZ MQ\nbgCWvSP\u000boz Cy01\u000bBqYA k\r5\rSNw\r yQ1yop\u000b t7uOC\f Ce\nKLnn rels\fO \rH2DreR A\u000bkfwyr3y \rtjJLKw xYcbju\r \fQ \fev JPNa\tF yQ\tA7n ID\u000bSNuv lh4t yg jZQ f7 qE2nY ekvS\nG EEW\u000bgcC YCTH4\fC U\neb\rRQ4 \tq8Zz8\fb N2CQ_QZl\nD Z\ttDE3GD d6\tR8A\t FTOpj_9 hQ\u000bjr9 W OTT6G 8gH\fwKZ 7LXN\tf\r5 nQ\tiZU hSxlFJMw\f \f\toS6r_ 6\u000bM9EG J7fX\teE Fy4CYD\nLV3\t  7\rSf0 c 8qZsE u I3ABB ccQxHy\rb lZL\rG\f Lc4\nSu6\u000bWUt U\fKWdT 1Gd\fyNLaPo_ \f3DO\ndn W\u000bCye5 \nejZUm pG\rV7muf AmQjONB\f z\nrhjg\n2Ps yunXrt Z0 \tAjcyJ USTDL   KoH5wnzw_ xiUF4\u000b P L\r6C\fu\n w_x\r23 tl8Ip\r _mjejA at\u000bxA597GN lq8PA\tB0\n i4wgs\fvLS Jy52_\n_ EkYJ_Eii Vgi4Qxc cDc IZo\tYz C0\rzL97F h6A_BwS FPd\r8n5 q6_eal aNC\rUfRfsSwXaZ  YhGF gh W2q6\tZ nZ lI\tiP\u000b\n \r\u000bUngQRyIn clA\rkry av7tG\f j\t\u000bnNHn5VF hM7\u000bokCiO \rK9rJ\t uC9n\fHZc\r nv8zq\u000bX s1nHHD\rMO T\fUir\tq0\r DLl w7 Qd2\u000bZL QD\u000bCF5v JS4rtG\f ZMnat\u000bxA595GN ZU5tum\u000b \fB533L  dS\fN5X \nsIYEn e\n6gmQ S\fb\u000btQ 4hu\u000bV8 L\nj1XDSEy_ \rRhR67 i8IBxi7\t v\n4HsX 0\fjJw\rD GJC_Ls \t\u000b4ws  I86\nYKWR mo\rvj5vb3i k3JhV5\u000bos  Lp9N\n FFb4j\r Dpbg\nkq 4D9UPl\r qNE9z\rH 77mL1\n mkV\rQZs LCqd\u000bq 6Fe bK tZNb7\fGQ UKYJ\tf 0fj\tWN LUS\n5y \f27\ngi Vo\rhXA GAfF\u000b2q\u000b0K 6\fY7jp3C7Li\nks 8kN3tW4\n Ywe\rgd H\fjc\n0FM P\ndIZ1 rbjX2t J7 2J\flUX \u000bBK\t2A0 \u000b\u000bingQZzpd 9RN4h\n 8\nmnE2VUS3 gc \fSd 3 PUCZ KQmZBM7\t Z \fOHA tLZx_Fq8LB4uS4H NVexLr\r 7PTP\rC \u000bXSzVLlj\u000bgJm D\rXzG\fF StcY1\r8 KoH4wfrW_ xiUF4\u000b P b\rVg2e tl8Np\f mXE\u000bCF56 sqlDt\r\tPm HD\rmMaB yYaap4\n IW_WW4 pSG\nLK E_0KJ\f \fmf_hxP \ns31Ody 6TUL\n1 gdN\u000b3VU BeY\tx4 G_Ac\r9 \n3ZiWKW x_95tuA rC_MRqj 6\f\tDplz\n _oUIkEI I2\u000bCU4q xUk Tx SWGhKU\n 5\nj0c4 ZU77\nR HcAp\u000bU \nG00Tl\f psqkJ\r cBvI4k\t E5X8\r\n e\rgs2Ey 9fTkZUWWh xlayTpd ZBYN6\rS 0cPI\fCpE MXT7\nR3 pucg5T\f 7\nFc7\u000bs9 \nw1tPI _k9vh_F \rC0KG3l87\r4vCg\r  iGnQwY3lIvHIqk8 k7\u000boCCiO A6\rmMgDQ Qt \fXB A_h_q_ _zkZex NLw\rFW hV pfz w5J_TR5D\t WQ6rWU\n7GqbO\n PwC\tAY_6 7wXa_OC sL_UiT ikp9\rgs EVB5_X \feh8Wov bitGMw 5\rL C\nBS18l o\rMqO8 Vgq4QxC CDC fxGMrv_ elRTa\r bR\rWYT st1\f\nS2D JGLZx_fa sUJOfIJ_gaL \rSfXlsY\t a0qcG\fI 5_OW5_ 4Uvoe\fYP ehQga\r30 L\n8\u000bsb 7DEs\t5 pi hZ\tl yC19\u000bH gu1\nkQ ini\n6\tR soH5wnbW_NeLs\nAnFOp \u000b2qKhyI8L Dplk\nm 1ZFXEj\fQ a\tZ\tSl nvlk2\u000b \ruCuzj7 R0wh\u000bB rCRVVnii\t\r m86B6s  0Tt\tvmj0 _JvXpVv NGE\n\u000bU F\nffh1 \u000bpLtLxL Tm\u000bEPL7J cymAF\tL464 6ZLUg\nIDZ Ltpjnw_neRw w\n17cG Jh177T\f xWmW\fQ9\t2Xdy RbJvM\rPr\r  UB1P\u000bN 8LlEG\rlV\u000b \u000bWhQeie W8O NR z_W6P4 B3F6\rmU yBXWov\u000b wz4\u000bxVK5T ozns\trB  7\n56fs \fGZr4Du7 xmlLV_o 4\u000bd0JV7 yX\rS4r 0\rn_w4 Vs5Ff_A ESA \tS V qJ12af \nv\frbu K\u000buCsr4wZ\f zA4gZlM\t \ra41rJR tmJ\f\f3 _\tw0r5HkIb MdjW\u000b5Z 7_p\rc3 d0OP\ncT mxS1\tPoJ\r JB8FI\n 0GT\fyM7 \u000bc2\nCnez 1h\u000bwgn frmMCpOD\nN nYKL\rTL \n\u000bdUE8 c0\rKU5\n GVq4hu\u000b 1vcO\rk Y2GA2\tJ2\u000b\u000be8 DY84L_ \n6pNLx Wt_XFm \tzM4ywuxWo TPKJ\nG CW\tezO ZM\u000bvC3rP7R\r3p  i9\n2KRPOa Q\fJ5RGJl\u000b7 \u000bChBPdN nX6A eu t2quby\rOY mJLUW 8MT Vbny\nli \nBXSOJ 91_DnQE vo\rhX\tw zNZ\rhj1 \nc2Hs2 dPQnz \n2l qc_JndZymwG5 siTC4\f _mZBKN \u000bYVB20 \u000b4L\u000bu\nby J\nJVRb 83V\flo u6_D3A KYz\n3d5 Ui\fW3i GVfa\r\t IhgXX\f MJhbz\u000b2K u9Yz2_SN S7\rC_MRq _7B\u000bFdC g_d\rEM gL_sVgx grqm\u000bS 0w tOk_1\r8 y\r3\u000bZZN b4Bq6\u000bp WinC\u000b1tW f\u000bnB\rj TQZ4b_c Zp\ndsqo i3jdE4_v W\rcuit xbJ\nnn \rFZb4Z\r mMuAZ\r J_xWwuGT O\rP6aG E\fbZQ4 \fQYB0ZD0\u000bR V65hx_j ZZQ\tGI rQ7\tl\f e\u000bvdmYc \nt1dmI \flo\nfR0D mW\u000b09lj3y rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR Z8aiDC\r 3\u000btvKj NB0hi  rels\fO \r1tHx_ rels\fO \rH2DreR 4Y0IVU4lU\r w9W\tKyy3UeMX ZJbTFs\t U kq7_K rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR vJTk1boX4YX\rw Olfn0\f5Al3 6KFrC\rj\u000btD rels\fO \rH2DreR rels\fO \rH2DreR OjC0\fFo 6Vup0C7\r U\fZbHRUXknem rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR rels\fO \rH2DreR 9i9k\f0Q6Cdd R2\u000b\nF8I\n RS9LyA\fs _fiS5U GcH\nlX3li VW9\u000bA7w e\nvFfJ Mrk_Xi ES\u000bxahEQt 65l_B6 0gQqTv_ Czbc_v CDb\n\t\tB WEOJ Gj  4J\r6fxs9g 5yQ_Lm7o Jvv\u000bc_ ie\rOVMW r\r0n4gc D_J2aTAx \r8PbPd My apJ 0l\rxHU 1dE1EL\rbH P\nUWjQJ4 \rZ\tC_P j6KxHR  H\u000bIQCC m\u000bVVmm 7WBt3Kj\u000b5mr Zw\fZGi 5\f\nxz\nv yn\fb_6 \nCoTqX St\nRVzwl Uz\u000bR1Gylsu j0WSc59To4cu l bfepzx5H\t 0S\tdDC8 C_5R6\tz2 7_3WJu 5v8_n3_ \t1q\u000b Dt WEgK\t\u000b \tuO4\u000bOa \fEXOP\n Le94\ri5agc3Z9 capn8C\fBD7I upSu6Z\u000bvr6 MOMX\r5 7fl6X\r5 XuWg1\u000bx 6\nh  pT6 Rs\tzyZ Ej\u000bNKS e\u000bCF4j cOi\fuPeQ8 qLg6\nTWZ ZG6ZoO_ Laz6_kC9  oom25xP8\r lgEa_TqDsb 3vR4\tq L\nSVW\r lTP\u000beecd XuFR_LVw jMkTk\f \nqPoP8nD JaCu\tr9w Hyfij\r9 B\rZp\ryPy nU\fXWG6 \nYXoXxDD_ K6q\tFD\f 5Xk31\tVT7UeJ 0a\fPuRW D7R4c7X  JcKEW4uL4_Y iWfgl_l  JqZsv r\tAsGup U\u000b2H9q1 \ff\tF4tCDR7BQb9HK VuF\u000bHR s4b_2M mP\u000bHSk bJ\n238 rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew rels\fO ETSV ew R4klQ  EM\fNL9CQ \nh\nsLf xmllYM\u000b \t\nAm\rI x\rz0Zm 2atG\no O74GQy\frRiPHl\r yytI\u000bo DX8Wq\ts h\f1sk\n\rOf H\fUUO0 qCDFz\n5nGH NP\fg O 2K\f\u000bYG C3h\f8mS \f\n\f\f\u000b\n\u000b\u000b\r HbI\t2g\f \tL\nWls RZMc799r\fQb _ZmuY5a  \t7gwx YoRa1K\f \t\t\t\f\u000b\f \fZsQ\ta \ndW9qSI \rWXmnUHj e\fVLDUF9 A\fo\tQ62Uej Ve8z5H\u000b VSY\u000bVt 2\nOvbao xk_drvp C\fmF28Z\rkQ8 QS\tXNI Y\fL\n65  uE2aK 2SLYZ\u000bQ UeKW\u000b\n w6yYD\fni6 4Tw\r_t7i lTTTX d JerqdL\t\nFx W\nK\rk3NSVHVE Eyl\tNgGQ\nnOK ZevMmi\nq qUiUeUZ a KuQvK\rmunJ \r5yUsS5 \r5yUsS5 \r5yUsS5 Ov6WeWONVzc\r U\fT5WHduB\n \r5yUsS5 \r5yUsS5 \r5yUsS5 \r5yUsS5 9AEIM\u000b ii\rEUyI  HZ\u000bN51 9iZz\nK \r1FDF1\fL5 a4\r6ajS \u000b\fmF6p 4_R_S_ cjlxIc\rpS 17wQ3\r vJNUjmO\nqOte Z\u000bAOM5 \ns8wIt\rZW6 \u000b0BuL\fMiR cROz\u000buDO 1_rSGx_N rm3D\nDpgm j_\rOv_  7MCLfI FLe1\r_ 48mE\u000bg\n j5I3r\n c\nvc 9V W\fr6bej \n6FDX\rja Y9KMZx1rt\n SCPNE_s 1Z7N\rt\r mFO\f5W zMqZ1Faqr\r KC\u000bcIh LkpwJ\r J_5mp9 \u000bwP9cw Pzv\tht IdExU vt tGwp 96BKa\r vcS8p\u000b f48m I \u000bFKuk\n EPr_9g e 0z_I50 xml\fLI 0\n\u000by6_ fbH2Z_ e5B Rx6p_ A\r6zfH 6lS\t3lnX \u000bbFtgd c\tN08X0 Tnz_aE vPSic6hH0\f NoFEip\u000bI\r 6\nxGNngK Content_Types",
+      "wordCount": 1172
+    }
+  ],
+  "analyses": [
+    {
+      "documentId": "oa59x575g",
+      "summary": "This educational resource provides a comprehensive introduction to Software Engineering and Software Project Management. It contrasts software development with traditional physical engineering projects, detailing the distinct challenges of managing intangible assets. The document covers key software lifecycle activities, stakeholder management, requirement specification, organizational information flows, control mechanisms, step-wise project planning steps, and techniques for technical and financial project evaluation.",
+      "chapterSummaries": [
+        {
+          "chapterTitle": "Definition and Objectives of Software Engineering",
+          "summaryText": "Defines Software Engineering as a systematic, disciplined approach to designing, developing, testing, and maintaining high-quality, reliable, and maintainable software systems. It highlights that software engineering is primarily designed for large-scale systems to optimize quality, budget, and time efficiency."
+        },
+        {
+          "chapterTitle": "Software Projects vs. Other Types of Projects",
+          "summaryText": "Explores the unique characteristics of software projects that distinguish them from physical engineering (e.g., building a flyover). These characteristics include invisibility (lack of physical progress indicators), complexity, conformity to human constraints rather than physical laws, and high flexibility which leads to high rates of change."
+        },
+        {
+          "chapterTitle": "Key Activities in Software Project Management",
+          "summaryText": "Outlines the software development lifecycle stages, beginning with feasibility studies and planning, moving through execution (requirements analysis, specifications, architecture design, detailed design, and coding), and concluding with testing (verification, validation, integration, qualification), implementation, and maintenance."
+        },
+        {
+          "chapterTitle": "Stakeholder Management",
+          "summaryText": "Identifies stakeholders as internal or external parties with an interest in the project. It maps out their roles (customers, end users, project managers, developers, sponsors, and regulators), their key responsibilities, and their direct impact on project goals, risk mitigation, and quality assurance."
+        },
+        {
+          "chapterTitle": "Requirement Specification",
+          "summaryText": "Categorizes project objectives into functional requirements (what the software must do), quality requirements (how well it performs, such as response time and reliability), and resource requirements (the budget and constraints the organization is willing to invest)."
+        },
+        {
+          "chapterTitle": "Information and Control in Organizations",
+          "summaryText": "Discusses how processed and organized data (information) drives organizational operations. It outlines characteristics of good information (accuracy, timeliness, relevance, completeness) and explains the management control cycle of setting standards, measuring performance, and taking corrective action."
+        },
+        {
+          "chapterTitle": "Step-Wise Planning and Project Evaluation",
+          "summaryText": "Presents a structured, 10-step planning guide from project selection to execution. It explains how prospective projects are evaluated based on three critical vectors: technical assessment, cost-benefit analysis (categorized by development, setup, and operational costs), and overall project risk."
+        }
+      ],
+      "keyConcepts": [
+        {
+          "concept": "Invisibility of Software Progress",
+          "explanation": "Unlike physical engineering projects (like roads or bridges) where progress is visually obvious, software development is inherently invisible. Project managers must implement specific tracking and documentation techniques to make progress observable and measurable."
+        },
+        {
+          "concept": "Conformity and Flexibility",
+          "explanation": "Software has no natural physical laws to govern its behavior, meaning it must conform strictly to complex human requirements. Furthermore, because software is highly flexible and easy to modify, it is constantly expected to adapt to other systems, making it highly susceptible to change."
+        },
+        {
+          "concept": "The Three-Step Control Process",
+          "explanation": "A core management cycle used to keep projects aligned with goals: 1) Setting clear and measurable standards, 2) Measuring actual performance using metrics, and 3) Taking corrective action when actual performance deviates from the established standards."
+        },
+        {
+          "concept": "Cost-Benefit Analysis in Software Projects",
+          "explanation": "A financial evaluation technique that identifies and estimates development, setup, and operational costs, contrasting them against financially quantifiable benefits to calculate the project's net benefit."
+        }
+      ],
+      "importantDefinitions": [
+        {
+          "term": "Software Engineering",
+          "definition": "The systematic and disciplined process of designing, developing, testing, and maintaining software to ensure high quality, reliability, and maintainability."
+        },
+        {
+          "term": "Stakeholders",
+          "definition": "People who have a stake or interest in the project, influencing goals, requirements, decisions, and outcomes at every stage."
+        },
+        {
+          "term": "Functional Requirements",
+          "definition": "Specifications that define what the end-product of the project is expected to do."
+        },
+        {
+          "term": "Quality Requirements",
+          "definition": "Non-functional system attributes experienced by the user, such as response time, ease of use, and reliability."
+        },
+        {
+          "term": "Information",
+          "definition": "Data that has been processed and organized within an organization to provide meaning and context for decision-making."
+        },
+        {
+          "term": "Feasibility Study",
+          "definition": "An investigation to gather user requirements, estimate development/operational costs, assess benefits, and evaluate if a prospective project is worth starting."
+        }
+      ],
+      "importantPoints": [
+        "Software engineering is primarily utilized for large-scale software systems rather than single isolated applications.",
+        "The primary goals of software engineering are to improve software quality, keep projects within budget, and optimize time efficiency.",
+        "Software projects are highly dynamic because software is expected to change to accommodate the physical or organizational systems it interfaces with.",
+        "Stakeholders can be internal to the project team, external to the team but within the organization, or entirely external to the organization.",
+        "Good organizational information must be accurate, timely, relevant, and complete to prevent poor decision-making and wasted resources.",
+        "For large projects, detailed planning should not be done entirely at the start; instead, formulate an outline plan first and design detailed plans as subsequent stages approach.",
+        "Project evaluation must carefully weigh technical feasibility, cost-benefit analysis, and the overall degree of project risk."
+      ],
+      "examTips": [
+        "Be prepared to compare software projects with traditional projects using the four criteria: Invisibility, Complexity, Conformity, and Flexibility.",
+        "Understand the distinction between Functional requirements (what the system does) and Quality requirements (how the system performs) as scenario-based questions often ask you to classify them.",
+        "Memorize the three distinct types of costs analyzed in a Cost-Benefit Analysis: Development Costs, Setup Costs, and Operational Costs.",
+        "Be ready to outline the three steps of the Control Process (Setting Standards, Measuring Performance, and Taking Corrective Action) and apply them to a practical software team scenario.",
+        "Understand how the Step-Wise planning activities (Steps 0 to 10) sequence, particularly focusing on identifying products, activities, and estimating efforts."
+      ],
+      "frequentlyAskedTopics": [
+        "The differences and challenges of managing software projects vs. physical infrastructure projects.",
+        "The roles, responsibilities, and impacts of key stakeholders (Sponsors, Customers, End Users, Regulators, etc.) on software project success.",
+        "The 10-step Step-Wise Planning framework and its sub-activities.",
+        "The elements of a software project evaluation: Technical Assessment, Cost-Benefit Analysis, and Risk Assessment."
+      ],
+      "createdAt": "2026-07-04T08:57:05.113Z"
+    },
+    {
+      "documentId": "k5n2zr4ch",
+      "summary": "This document provides a comprehensive overview of Software Engineering (SE) and Software Project Management (SPM). It defines SE as a systematic, disciplined approach to developing high-quality, reliable, and maintainable software. It distinguishes software projects from traditional engineering projects based on unique characteristics like invisibility, complexity, conformity, and flexibility. Additionally, it details the key activities of software project management, the roles and classifications of stakeholders, requirements specification types, the flow of information and control within organizations, a structured 11-step 'Step Wise' planning framework, and methods for evaluating projects using technical, risk, and cost-benefit metrics.",
+      "chapterSummaries": [
+        {
+          "chapterTitle": "Introduction to Software Engineering and Project Distinctions",
+          "summaryText": "Defines software engineering as a structured process aimed at optimizing software quality, budget, and schedule, specifically for large systems. It contrasts software projects with physical construction projects (such as flyovers) by highlighting four distinct challenges unique to software: invisibility, high complexity, the need to conform to human client requirements rather than physical laws, and a high degree of change due to software flexibility."
+        },
+        {
+          "chapterTitle": "Key Activities in Software Project Management",
+          "summaryText": "Outlines the software lifecycle process, beginning with the Feasibility Study and early Planning. It describes project execution stages, including Requirements Analysis, Specification, Design (both high-level System Architecture Design and Detailed Design), Coding, Verification and Validation (testing), Integration of components, Qualification Testing, Implementation/Installation, and ongoing Maintenance and Support."
+        },
+        {
+          "chapterTitle": "Stakeholders and Requirement Specifications",
+          "summaryText": "Explores the critical role stakeholders play in driving business value, defining goals, managing risk, and assuring quality. Stakeholders are classified as internal to the team, external to the team but within the organization, or fully external. Projects are defined using three core requirement specifications: Functional requirements (what the system does), Quality requirements (how well it performs), and Resource requirements (budgetary limits)."
+        },
+        {
+          "chapterTitle": "Information, Control, and the Step Wise Planning Process",
+          "summaryText": "Discusses organizational management dynamics. It highlights the characteristics of good information (Accurate, Timely, Relevant, Complete) and explains the three-step management control cycle: Setting Standards, Measuring Performance, and Taking Corrective Action. It presents the 'Step Wise' project planning framework, an iterative 11-step model (Steps 0-10) mapping project initiation to execution."
+        },
+        {
+          "chapterTitle": "Project Evaluation and Cost-Benefit Analysis",
+          "summaryText": "Explains the criteria for selecting viable projects: Technical Assessment (aligning requirements with available technology and architecture limits), Cost-Benefit Analysis (identifying development, setup, and operational costs to compute net monetary benefit), and evaluating the associated Degree of Risk (uncertainty in schedules, estimates, and external factors)."
+        }
+      ],
+      "keyConcepts": [
+        {
+          "concept": "Invisibility in Software Projects",
+          "explanation": "Unlike physical engineering artifacts like bridges where progress is visually obvious, software progress is not immediately visible, making tracking and project management inherently more challenging and reliant on documentation and metrics."
+        },
+        {
+          "concept": "The Three-Step Control Process",
+          "explanation": "A fundamental management cycle used to keep projects on track by setting clear performance standards, measuring current performance against those standards, and taking corrective action when deviations occur."
+        },
+        {
+          "concept": "Step Wise Planning",
+          "explanation": "A systematic, step-by-step methodology for planning software projects, moving from initial selection and scope identification to product flow documentation, resource allocation, and iterative low-level planning."
+        },
+        {
+          "concept": "Cost-Benefit Analysis (CBA) in Software",
+          "explanation": "A financial evaluation process where all projected project costs (development, setup, and operational) and quantifiable benefits are translated into monetary terms to determine net financial benefit and prioritize projects."
+        }
+      ],
+      "importantDefinitions": [
+        {
+          "term": "Software Engineering",
+          "definition": "The systematic, disciplined, and quantifiable process of designing, developing, testing, and maintaining high-quality, reliable, and maintainable software systems."
+        },
+        {
+          "term": "Conformity",
+          "definition": "The software characteristic where developers must adapt system interfaces and logic to human client demands and legacy systems rather than physical, consistent laws of nature."
+        },
+        {
+          "term": "Functional Requirements",
+          "definition": "The specifications that define exactly what features, services, and tasks the final software product must perform."
+        },
+        {
+          "term": "Quality Requirements",
+          "definition": "Non-functional system attributes that dictate how well the software performs tasks, including performance, response time, reliability, and ease of use."
+        },
+        {
+          "term": "Feasibility Study",
+          "definition": "An early-stage investigation and evaluation to determine if a prospective software project is viable, practical, and worth starting based on technical, financial, and organizational criteria."
+        }
+      ],
+      "importantPoints": [
+        "Software engineering principles are primary tools for managing large-scale system complexities, rather than basic single-user applications.",
+        "The flexibility of software is a double-edged sword; while it makes updates easy, it subjects software systems to a continuous stream of change requests to accommodate physical and organizational environments.",
+        "Initial planning on large software projects should be high-level, with detailed phase planning deferred until closer to execution when better information is available.",
+        "Stakeholder identification must occur as early as possible to establish clear communication channels and align conflicting user and manager objectives.",
+        "Information flows both vertically (between levels of hierarchy) and horizontally (across departments) to support daily operations and strategic planning.",
+        "Cost-Benefit Analysis only evaluates financially quantifiable benefits and focuses on incremental benefits when assessing replacement software systems."
+      ],
+      "examTips": [
+        "Be prepared for exam questions comparing traditional engineering (like civil engineering) to software engineering using the four distinct characteristics: Invisibility, Complexity, Conformity, and Flexibility.",
+        "Remember the three steps of the organizational control loop in order: Setting Standards, Measuring Performance, and Taking Corrective Action.",
+        "Be ready to classify given project requirements into Functional, Quality, or Resource categories based on scenarios.",
+        "Understand the distinction between Development costs (staff salaries), Setup costs (new hardware, training, file conversion), and Operational costs (ongoing running costs) for Cost-Benefit Analysis problems.",
+        "Pay attention to the chronological sequence of the Step Wise planning framework, specifically noting that stakeholder identification occurs in Step 1, and lifecycle selection occurs in Step 3."
+      ],
+      "frequentlyAskedTopics": [
+        "Software project characteristics versus other project types (Invisibility, Complexity, Conformity, Flexibility).",
+        "Key activities in Software Project Management from Feasibility to Maintenance.",
+        "Stakeholder types (Internal, External, Client, Developer) and their responsibilities/impact.",
+        "Characteristics of good organizational information.",
+        "The 3-Step Management Control cycle.",
+        "The Step Wise Planning Framework phases and sub-activities.",
+        "Evaluating projects using Technical, Cost-Benefit, and Risk assessments."
+      ],
+      "createdAt": "2026-07-04T14:24:59.555Z"
+    }
+  ],
+  "notes": [
+    {
+      "documentId": "oa59x575g",
+      "shortNotes": "Software Engineering (SE) applies a systematic, disciplined approach to software development, prioritizing quality, budget, and time efficiency in large-scale systems. Unlike physical construction projects, software development faces distinct structural challenges including invisibility, complexity, conformity, and high volatility/flexibility. Effective software project management is sustained by incremental step-wise planning, comprehensive stakeholder involvement, functional/quality/resource trade-offs, organizational control loops, and comprehensive project evaluation methodologies.",
+      "detailedNotes": "# Software Engineering & Project Management\n\n## 1. Defining Software Engineering\nSoftware Engineering is a disciplined, systematic approach to designing, developing, testing, and maintaining software. Its core objective is to deliver high-quality, reliable, and maintainable software systems within budget and schedule constraints, primarily targeting large, complex multi-user systems rather than individual apps.\n\n## 2. Software Projects vs. Traditional Projects\nSoftware projects differ fundamentally from traditional engineering projects (e.g., civil engineering) due to four key factors:\n* **Invisibility:** Unlike physical structures (e.g., flyovers), software progress cannot be physically seen as it is constructed.\n* **Complexity:** Software products possess significantly more states and logic pathways than traditional engineered artifacts.\n* **Conformity:** Developers must adapt systems to arbitrary human requirements and organizational systems rather than stable physical laws.\n* **Flexibility:** Software is highly malleable, which means it is often expected to change to accommodate other physical or organizational components, leading to frequent scope volatility.\n\n## 3. Project Life-Cycle & Key Activities\n1. **Feasibility Study:** Investigating project viability, estimating costs, and quantifying benefits.\n2. **Planning:** Initiated with an outline plan, followed by detailed planning executed stage-by-stage as more precise information is uncovered.\n3. **Execution Phase:**\n   * **Requirements Analysis & Specification:** Investigating user needs and documenting what the system must do.\n   * **Design:** Segmented into external design (user-facing interface) and physical design (internal data structures and logic).\n   * **Architecture Design:** Decides manual vs. computerized processes and maps requirements to software components.\n   * **Detailed Design:** Designing individual units to prepare them for coding.\n   * **Coding:** Writing code or modifying pre-existing base packages.\n   * **Verification, Validation & Integration:** Testing individual modules and integrating them system-wide.\n   * **Maintenance & Support:** Correcting post-deployment bugs and releasing functional updates.\n\n## 4. Stakeholder Analysis\nStakeholders influence scope, requirements, decisions, and outcomes. They are classified as:\n* **Internal to Project Team:** Direct employees under the project manager's control.\n* **External to Team, Internal to Organization:** Collaborating groups within the same business (e.g., DBA teams) requiring negotiation for resources.\n* **External to Organization:** Customers, third-party contractors, and regulators governed by contracts or compliance guidelines.\n\n## 5. Organizational Control & Information Flow\n* **Good Information Traits:** Accurate, Timely, Relevant, Complete.\n* **Control Cycle (Three Steps):**\n  1. *Setting Standards* (defining clear, measurable target metrics).\n  2. *Measuring Performance* (collecting data on actual performance).\n  3. *Taking Corrective Action* (resolving gaps between actual output and set standards).\n\n## 6. Project Evaluation\nEvaluation determines viability based on three assessments:\n* **Technical Assessment:** Matching proposed functionality against available hardware/software limitations.\n* **Cost-Benefit Analysis:** Compiling costs (Development, Setup, Operational) to calculate Net Benefit.\n* **Risk Assessment:** Identifying uncertainties in cost, timeline, tech hurdles, and external vendor dependencies.",
+      "bulletNotes": [
+        "Software Engineering focuses on large-scale software systems rather than simple, isolated programs.",
+        "The unique attributes of software projects are encapsulated by Invisibility, Complexity, Conformity, and Flexibility.",
+        "Feasibility studies assess whether a prospective project is viable by estimating operational costs and financial returns.",
+        "Software planning is an iterative process where detailed plans are developed progressively closer to the start of each stage.",
+        "System requirements are classified into Functional (what it does), Quality (how it behaves, e.g., reliability, speed), and Resource (budget/schedule constraints).",
+        "Organizational control operates as a feedback loop consisting of: Setting Standards -> Measuring Performance -> Taking Corrective Action.",
+        "Cost-Benefit Analysis requires that all costs (Development, Setup, Operational) and benefits are expressed in a common monetary unit."
+      ],
+      "revisionNotes": "### SOFTWARE PROJECT CHEAT SHEET\n\n* **Software Attributes (ICCF):** \n  - *Invisibility:* Progress is hidden.\n  - *Complexity:* Intricate design states.\n  - *Conformity:* Adapt to human rules, not physical laws.\n  - *Flexibility:* High rate of change.\n\n* **Control Process:** \n  Set Standards -> Measure Performance -> Take Corrective Action\n\n* **Cost-Benefit Equation:**\n  - *Net Benefit* = Total Financially Quantifiable Benefits - Total Costs\n  - *Total Costs* = Development Costs + Setup Costs + Operational Costs\n\n* **Step-Wise Planning Sequence:**\n  0. Select Project\n  1. Scope & Objectives\n  2. Infrastructure\n  3. Project Characteristics\n  4. Products & Activities\n  5. Estimate Effort\n  6. Activity Risks\n  7. Allocate Resources\n  8. Review/Publicize Plan\n  9/10. Execute / Lower-Level Planning\n\n* **Requirement Triad:**\n  - *Functional:* System actions.\n  - *Quality:* Non-functional (Performance, Reliability).\n  - *Resource:* Budget/Timeline limits.",
+      "flashcards": [
+        {
+          "question": "What are the four unique characteristics that distinguish software projects from traditional engineering projects?",
+          "answer": "Invisibility (progress cannot be physically observed), Complexity (intricate logical pathways), Conformity (needs to adapt to human requirements rather than consistent physical laws), and Flexibility (higher expectation to change to accommodate other components).",
+          "id": "7yg2b5kjs"
+        },
+        {
+          "question": "What are the three steps in the organizational control process?",
+          "answer": "1. Setting Standards (establishing clear, measurable goals), 2. Measuring Performance (collecting performance metrics), and 3. Taking Corrective Action (making adjustments to resolve variance).",
+          "id": "qo7o19glh"
+        },
+        {
+          "question": "What is the difference between Architecture Design and Detailed Design?",
+          "answer": "Architecture Design maps requirements to high-level system components and decides which tasks are manual versus computerized. Detailed Design structures the individual software units so they can be separately coded and tested.",
+          "id": "7woe9orsw"
+        },
+        {
+          "question": "How are costs categorized during a Project Cost-Benefit Analysis?",
+          "answer": "Costs are divided into: 1. Development Costs (salaries, staff expenses), 2. Setup Costs (hardware procurement, data conversion, training), and 3. Operational Costs (ongoing running costs post-installation).",
+          "id": "hzz9kdbng"
+        },
+        {
+          "question": "What is the difference between Functional and Quality requirements?",
+          "answer": "Functional requirements define what the product/system must do (its behaviors and actions). Quality requirements define how the system must do it (non-functional aspects like response time, reliability, and ease of use).",
+          "id": "7dwfyr5gq"
+        },
+        {
+          "question": "Why is rolling-wave/incremental planning used instead of detailed up-front planning for large software projects?",
+          "answer": "Because more detailed and accurate project information becomes available closer to the actual start of later project stages, making early detailed planning highly inaccurate.",
+          "id": "smj19517n"
+        }
+      ],
+      "createdAt": "2026-07-04T08:57:31.041Z"
+    },
+    {
+      "documentId": "k5n2zr4ch",
+      "shortNotes": "Software Engineering is a systematic, disciplined approach to designing, developing, testing, and maintaining high-quality software. Software projects differ from traditional projects due to unique traits: Invisibility, Complexity, Conformity, and Flexibility. Successful management relies on progressive Step Wise Planning, robust Stakeholder Management, three-step Organizational Control (Setting Standards, Measuring Performance, Taking Corrective Action), and thorough Project Evaluation via Technical, Cost-Benefit, and Risk assessments.",
+      "detailedNotes": "# Comprehensive Software Engineering & Project Management Study Notes\\n\\n## 1. What is Software Engineering?\\nSoftware Engineering (SE) is the systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software. Unlike single-program development, SE is designed for large-scale, complex software systems. Its core objective is to deliver high-quality, reliable, and maintainable software on-time and within budget constraints.\\n\\n## 2. Software Projects vs. Traditional Projects\\nSoftware projects differ from physical engineering projects (like building a bridge) in four fundamental ways (ICCF):\\n- **Invisibility:** Progress in software cannot be physically seen or measured by observation.\\n- **Complexity:** Software systems possess a higher density of logic and states than physical structures.\\n- **Conformity:** Software must conform to dynamic human requirements and pre-existing legacy environments rather than consistent, physical laws.\\n- **Flexibility:** Software is easily altered, making it the default target for adaptation when interfacing with physical or organizational systems, resulting in high rates of change.\\n\\n## 3. Key Phases in Software Project Management\\n1. **Feasibility Study:** Investigates if a project is worth pursuing by analyzing expected costs, benefits, and requirements.\\n2. **Planning:** Incremental planning (progressive elaboration) where an outline plan is made for the whole project, and detailed plans are formulated right before each stage begins.\\n3. **Execution:** Includes:\\n   - **Requirements Analysis:** Finding out what the users need.\\n   - **Specification:** Documenting system requirements.\\n   - **Design:** Split into *External Design* (user-facing interface) and *Physical Design* (internal data/procedures architecture).\\n   - **Coding:** Writing source code or customizing packages.\\n   - **Integration:** Combining and testing software units together.\\n   - **Qualification Testing:** Checking the unified system against requirements.\\n   - **Implementation/Installation:** Activating the system in the operational environment.\\n   - **Maintenance & Support:** Correcting errors and implementing minor upgrades over time.\\n\\n## 4. Stakeholder Dynamics\\nStakeholders influence project goals, budget, and scope. They are categorized as:\\n- **Internal to Project Team:** Direct reports under the project manager.\\n- **External to Team, Internal to Org:** Colleagues or departments whose cooperation must be negotiated.\\n- **External to Org:** Customers, contractors, and regulators governed by contracts or compliance guidelines.\\n\\n## 5. Organizational Control & Information Flow\\nFor information to be effective, it must be **Accurate, Timely, Relevant, and Complete**.\\n### The Control Loop Cycle:\\n1. **Setting Standards:** Establishing clear, quantifiable targets.\\n2. **Measuring Performance:** Collecting metrics to track actual execution.\\n3. **Taking Corrective Action:** Intervening (re-allocating resources, adjusting schedules) when deviations occur.",
+      "bulletNotes": [
+        "Software engineering applies a systematic, disciplined, and measurable approach to software lifecycle management.",
+        "The unique attributes of software projects are Invisibility, Complexity, Conformity, and Flexibility.",
+        "Planning is an iterative, rolling-wave process; details are finalized as a stage approaches rather than entirely upfront.",
+        "System design comprises user-centric external design and structural physical design.",
+        "Stakeholders are categorized into internal team, internal organizational partners, and external third parties.",
+        "Project requirements must balance three trade-offs: Functional (what it does), Quality (how well it performs), and Resources (cost/time).",
+        "Good organizational information must be accurate, timely, relevant, and complete.",
+        "Organizational control is a continuous three-step cycle: Set standards, measure performance, and take corrective action.",
+        "Project evaluation rests on three pillars: Technical feasibility, Cost-Benefit Analysis (CBA), and Risk assessment."
+      ],
+      "revisionNotes": "### REVISION CHEAT SHEET\\n\\n**Key Acronym / Frameworks:**\\n- **ICCF (Software Traits):** Invisibility, Complexity, Conformity, Flexibility.\\n- **3-Step Control Loop:** Set Standards -> Measure Performance -> Take Corrective Action.\\n- **CBA Formula:** Net Benefit = Total Benefits - Total Costs (Note: Only calculate financially quantifiable and incremental benefits).\\n- **Cost Categories:** Development (salaries), Setup (hardware, training), Operational (running costs).\\n- **Requirement Types:** Functional (behavior), Quality (attributes like speed/reliability), Resource (time/money limits).\\n\\n**Step Wise Planning Steps (0-10):**\\n0. Select Project | 1. Scope & Objectives | 2. Infrastructure | 3. Project Characteristics | 4. Products & Activities | 5. Estimate Effort | 6. Activity Risks | 7. Allocate Resources | 8. Review/Publicize | 9/10. Execute & Lower Level Planning.",
+      "flashcards": [
+        {
+          "question": "What four characteristics distinguish software projects from traditional engineering projects?",
+          "answer": "Invisibility (cannot physically see progress), Complexity (highly intricate systems), Conformity (must conform to human rules rather than physical laws), and Flexibility (easily changed, making it highly volatile).",
+          "id": "1t18g8iat"
+        },
+        {
+          "question": "What is the three-step cycle of the organizational control process?",
+          "answer": "1. Setting Standards (establishing goals/targets), 2. Measuring Performance (gathering metrics), and 3. Taking Corrective Action (fixing deviations).",
+          "id": "9wyqxug1h"
+        },
+        {
+          "question": "What are the three main categories of requirements specified in software projects?",
+          "answer": "1. Functional requirements (what the software must do), 2. Quality requirements (performance, reliability, usability), and 3. Resource requirements (allowable budget and timeline limits).",
+          "id": "4kei716av"
+        },
+        {
+          "question": "What is the difference between external design and physical design?",
+          "answer": "External design focuses on the user interface, layout, and system appearance, whereas physical design defines how data and procedures are structured internally.",
+          "id": "pqik2t57s"
+        },
+        {
+          "question": "What are the three categories of costs evaluated in a project Cost-Benefit Analysis (CBA)?",
+          "answer": "1. Development costs (staff salaries and direct expenses), 2. Setup costs (hardware purchase, file conversion, training), and 3. Operational costs (ongoing daily costs of running the post-installation system).",
+          "id": "3b7eqwguw"
+        }
+      ],
+      "createdAt": "2026-07-04T14:24:56.649Z"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "x04iu0x6v",
+      "documentId": "oa59x575g",
+      "title": "Software Engineering and Project Management Essentials",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "b09gan9br",
+          "type": "multiple_choice",
+          "question": "Why does the 'flexibility' of software often lead to a high degree of change in software projects?",
+          "options": [
+            "Because software is governed by consistent, physical laws like cement and steel.",
+            "Because software is expected to change to accommodate the physical or organizational systems it interfaces with.",
+            "Because software development does not require any initial feasibility study or planning.",
+            "Because software projects are always less complex than traditional physical infrastructure projects."
+          ],
+          "correctAnswer": "Because software is expected to change to accommodate the physical or organizational systems it interfaces with.",
+          "explanation": "The text explains that the ease with which software can be changed is viewed as a strength, which leads to the expectation that software will adapt to accommodate physical or organizational systems rather than the other way around."
+        },
+        {
+          "id": "py2ixjjkz",
+          "type": "true_false",
+          "question": "According to the Step Wise planning activities, detailed planning for all subsequent stages of a large project must be completed right at the beginning of the planning phase.",
+          "correctAnswer": "false",
+          "explanation": "The text states that for a large project, detailed planning right at the beginning is not recommended. Instead, an outline plan is formulated for the whole project, and detailed planning for later stages is completed as those stages approach and more accurate information becomes available."
+        },
+        {
+          "id": "ovq5kajns",
+          "type": "fill_blank",
+          "question": "In software project management, the characteristic of _________ refers to the challenge that software developers must adapt to the inconsistent requirements of human clients, unlike traditional engineers who work with consistent physical laws.",
+          "correctAnswer": "conformity",
+          "explanation": "The text defines 'conformity' as the characteristic where software developers have to conform to the requirements of human clients, who can be inconsistent, rather than working with physical laws that are consistent."
+        },
+        {
+          "id": "aq3uu4rc5",
+          "type": "short_answer",
+          "question": "Name and briefly describe the three steps of the organizational control process cycle.",
+          "correctAnswer": "Setting Standards, Measuring Performance, and Taking Corrective Action.",
+          "explanation": "According to the text, the control process consists of: 1) Setting Standards (establishing clear, measurable goals or targets), 2) Measuring Performance (collecting data and comparing actual performance to standard metrics), and 3) Taking Corrective Action (taking action to fix any significant gaps)."
+        },
+        {
+          "id": "76uwjjki6",
+          "type": "multiple_choice",
+          "question": "When conducting a Cost-Benefit Analysis for a replacement system, how should the benefits be measured?",
+          "options": [
+            "As the total organizational sales recorded after installation.",
+            "As incremental benefits, such as a specific sales increase rather than total sales.",
+            "By totaling the initial setup costs and operational costs.",
+            "By estimating qualitative user satisfaction ratings."
+          ],
+          "correctAnswer": "As incremental benefits, such as a specific sales increase rather than total sales.",
+          "explanation": "According to Step 2 of the Cost-Benefit Analysis section, only financially quantifiable benefits should be considered, and for replacement systems, you must measure incremental benefits (e.g., sales increase, not total sales)."
+        }
+      ],
+      "createdAt": "2026-07-04T08:59:10.359Z"
+    },
+    {
+      "id": "uhl6tpugp",
+      "documentId": "oa59x575g",
+      "title": "Introduction to Software Engineering and Project Management Quiz",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "id": "hes1jwnjy",
+          "type": "multiple_choice",
+          "question": "According to the text, what is the definition of Software Engineering?",
+          "options": [
+            "The process of designing, developing, testing, and maintaining software",
+            "The physical construction of structures like bridges and roads",
+            "A system focused solely on buying and selling hardware components",
+            "The simple task of writing code without planning or testing"
+          ],
+          "correctAnswer": "The process of designing, developing, testing, and maintaining software",
+          "explanation": "Software Engineering is defined as a systematic and disciplined approach to the process of designing, developing, testing, and maintaining software."
+        },
+        {
+          "id": "am512ysvh",
+          "type": "multiple_choice",
+          "question": "Which characteristic of software projects refers to the fact that progress is not immediately visible, unlike a physical bridge or road?",
+          "options": [
+            "Invisibility",
+            "Complexity",
+            "Conformity",
+            "Flexibility"
+          ],
+          "correctAnswer": "Invisibility",
+          "explanation": "Invisibility is the characteristic where, unlike physical artifacts, software progress cannot be easily seen, making software project management the process of making the invisible visible."
+        },
+        {
+          "id": "1xtqbbjo4",
+          "type": "multiple_choice",
+          "question": "Which stakeholder type has the key responsibility of providing resources and funding for the project?",
+          "options": [
+            "Regulators",
+            "Sponsors",
+            "Developers",
+            "End Users"
+          ],
+          "correctAnswer": "Sponsors",
+          "explanation": "According to the stakeholder responsibilities outlined in the text, Sponsors are responsible for providing resources and funding, as well as approving the project scope."
+        },
+        {
+          "id": "jszoyhkep",
+          "type": "multiple_choice",
+          "question": "What is the first step in the three-step cycle of the control process in organizations?",
+          "options": [
+            "Measuring Performance",
+            "Taking Corrective Action",
+            "Setting Standards",
+            "Designing the System"
+          ],
+          "correctAnswer": "Setting Standards",
+          "explanation": "The organizational control process is a three-step cycle that starts with Setting Standards, followed by Measuring Performance, and finally Taking Corrective Action."
+        },
+        {
+          "id": "f0m9tl85u",
+          "type": "multiple_choice",
+          "question": "Which type of requirement defines what the end-product of the project is to do?",
+          "options": [
+            "Quality requirements",
+            "Resource requirements",
+            "Functional requirements",
+            "Technical constraints"
+          ],
+          "correctAnswer": "Functional requirements",
+          "explanation": "Functional requirements define exactly what the end-product of the project is to do, whereas quality requirements focus on how it does it, and resource requirements focus on the budget."
+        }
+      ],
+      "createdAt": "2026-07-04T09:02:37.416Z"
+    },
+    {
+      "id": "ql2ptc9ni",
+      "documentId": "k5n2zr4ch",
+      "title": "Introduction to Software Engineering and Project Management",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "id": "1p3vif6uz",
+          "type": "multiple_choice",
+          "question": "According to the text, what is the main goal of Software Engineering?",
+          "options": [
+            "To write code as quickly as possible without planning",
+            "To develop software applications for improving quality, budget, and time efficiency",
+            "To focus only on single-user programs and ignore large systems",
+            "To eliminate the need for communication with stakeholders"
+          ],
+          "correctAnswer": "To develop software applications for improving quality, budget, and time efficiency",
+          "explanation": "The text explicitly states that the main goal of Software Engineering is to develop software applications for improving quality, budget, and time efficiency, ensuring software is consistent, correct, on budget, and on time."
+        },
+        {
+          "id": "1n96yih3l",
+          "type": "multiple_choice",
+          "question": "Which characteristic of software refers to the fact that its progress is not physically visible during development?",
+          "options": [
+            "Complexity",
+            "Conformity",
+            "Flexibility",
+            "Invisibility"
+          ],
+          "correctAnswer": "Invisibility",
+          "explanation": "Invisibility refers to the characteristic where software progress is not immediately visible, unlike a physical artifact such as a bridge or road."
+        },
+        {
+          "id": "i7fck6lk9",
+          "type": "multiple_choice",
+          "question": "What is the primary purpose of a Feasibility Study?",
+          "options": [
+            "To write the final codebase for the system",
+            "To investigate whether a prospective project is worth starting",
+            "To train the end-users on how to use the database",
+            "To execute the marketing plan for the software"
+          ],
+          "correctAnswer": "To investigate whether a prospective project is worth starting",
+          "explanation": "A feasibility study is an investigation into whether a prospective project is worth starting by estimating developmental costs, operational costs, and the value of benefits."
+        },
+        {
+          "id": "egc4z4xr8",
+          "type": "multiple_choice",
+          "question": "What are the three steps in the organizational control process?",
+          "options": [
+            "Designing, Coding, Testing",
+            "Hiring, Training, Evaluating",
+            "Setting Standards, Measuring Performance, Taking Corrective Action",
+            "Feasibility Study, Detailed Planning, Project Execution"
+          ],
+          "correctAnswer": "Setting Standards, Measuring Performance, Taking Corrective Action",
+          "explanation": "The control process in organizations is a three-step cycle consisting of Setting Standards, Measuring Performance, and Taking Corrective Action."
+        },
+        {
+          "id": "zknaz9ze6",
+          "type": "multiple_choice",
+          "question": "Which stakeholder type is responsible for providing resources and approving the project scope?",
+          "options": [
+            "Regulators",
+            "Sponsors",
+            "Developers",
+            "End Users"
+          ],
+          "correctAnswer": "Sponsors",
+          "explanation": "According to the stakeholder roles table, Sponsors are responsible for providing resources and approving the project scope, ensuring funding."
+        }
+      ],
+      "createdAt": "2026-07-04T14:28:30.588Z"
+    },
+    {
+      "id": "0yp0dg91g",
+      "documentId": "k5n2zr4ch",
+      "title": "Fallback Quiz: UNIT 1 SPM.docx",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "zbvbpmx4f",
+          "type": "short_answer",
+          "question": "What four characteristics distinguish software projects from traditional engineering projects?",
+          "correctAnswer": "Invisibility (cannot physically see progress), Complexity (highly intricate systems), Conformity (must conform to human rules rather than physical laws), and Flexibility (easily changed, making it highly volatile).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "yf6uckd0g",
+          "type": "short_answer",
+          "question": "What is the three-step cycle of the organizational control process?",
+          "correctAnswer": "1. Setting Standards (establishing goals/targets), 2. Measuring Performance (gathering metrics), and 3. Taking Corrective Action (fixing deviations).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "kwbe04nur",
+          "type": "short_answer",
+          "question": "What are the three main categories of requirements specified in software projects?",
+          "correctAnswer": "1. Functional requirements (what the software must do), 2. Quality requirements (performance, reliability, usability), and 3. Resource requirements (allowable budget and timeline limits).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "lo3yi5p5l",
+          "type": "short_answer",
+          "question": "What is the difference between external design and physical design?",
+          "correctAnswer": "External design focuses on the user interface, layout, and system appearance, whereas physical design defines how data and procedures are structured internally.",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "u9n7j8zo5",
+          "type": "short_answer",
+          "question": "What are the three categories of costs evaluated in a project Cost-Benefit Analysis (CBA)?",
+          "correctAnswer": "1. Development costs (staff salaries and direct expenses), 2. Setup costs (hardware purchase, file conversion, training), and 3. Operational costs (ongoing daily costs of running the post-installation system).",
+          "explanation": "Generated from document flashcards."
+        }
+      ],
+      "createdAt": "2026-07-04T17:38:39.928Z"
+    },
+    {
+      "id": "8nbys9ta1",
+      "documentId": "k5n2zr4ch",
+      "title": "Fallback Quiz: UNIT 1 SPM.docx",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "id": "tx9b9hpgv",
+          "type": "short_answer",
+          "question": "What four characteristics distinguish software projects from traditional engineering projects?",
+          "correctAnswer": "Invisibility (cannot physically see progress), Complexity (highly intricate systems), Conformity (must conform to human rules rather than physical laws), and Flexibility (easily changed, making it highly volatile).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "omj8dbh5u",
+          "type": "short_answer",
+          "question": "What is the three-step cycle of the organizational control process?",
+          "correctAnswer": "1. Setting Standards (establishing goals/targets), 2. Measuring Performance (gathering metrics), and 3. Taking Corrective Action (fixing deviations).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "c2bfouvgs",
+          "type": "short_answer",
+          "question": "What are the three main categories of requirements specified in software projects?",
+          "correctAnswer": "1. Functional requirements (what the software must do), 2. Quality requirements (performance, reliability, usability), and 3. Resource requirements (allowable budget and timeline limits).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "oqqsoxxsp",
+          "type": "short_answer",
+          "question": "What is the difference between external design and physical design?",
+          "correctAnswer": "External design focuses on the user interface, layout, and system appearance, whereas physical design defines how data and procedures are structured internally.",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "2drz5zirr",
+          "type": "short_answer",
+          "question": "What are the three categories of costs evaluated in a project Cost-Benefit Analysis (CBA)?",
+          "correctAnswer": "1. Development costs (staff salaries and direct expenses), 2. Setup costs (hardware purchase, file conversion, training), and 3. Operational costs (ongoing daily costs of running the post-installation system).",
+          "explanation": "Generated from document flashcards."
+        }
+      ],
+      "createdAt": "2026-07-04T17:39:18.324Z"
+    },
+    {
+      "id": "0med3eiro",
+      "documentId": "k5n2zr4ch",
+      "title": "Fallback Quiz: UNIT 1 SPM.docx",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "id": "66wj84rov",
+          "type": "short_answer",
+          "question": "What four characteristics distinguish software projects from traditional engineering projects?",
+          "correctAnswer": "Invisibility (cannot physically see progress), Complexity (highly intricate systems), Conformity (must conform to human rules rather than physical laws), and Flexibility (easily changed, making it highly volatile).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "aphzroldi",
+          "type": "short_answer",
+          "question": "What is the three-step cycle of the organizational control process?",
+          "correctAnswer": "1. Setting Standards (establishing goals/targets), 2. Measuring Performance (gathering metrics), and 3. Taking Corrective Action (fixing deviations).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "f4g6g2dxk",
+          "type": "short_answer",
+          "question": "What are the three main categories of requirements specified in software projects?",
+          "correctAnswer": "1. Functional requirements (what the software must do), 2. Quality requirements (performance, reliability, usability), and 3. Resource requirements (allowable budget and timeline limits).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "vrifnq2t0",
+          "type": "short_answer",
+          "question": "What is the difference between external design and physical design?",
+          "correctAnswer": "External design focuses on the user interface, layout, and system appearance, whereas physical design defines how data and procedures are structured internally.",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "4qqvx3zxz",
+          "type": "short_answer",
+          "question": "What are the three categories of costs evaluated in a project Cost-Benefit Analysis (CBA)?",
+          "correctAnswer": "1. Development costs (staff salaries and direct expenses), 2. Setup costs (hardware purchase, file conversion, training), and 3. Operational costs (ongoing daily costs of running the post-installation system).",
+          "explanation": "Generated from document flashcards."
+        }
+      ],
+      "createdAt": "2026-07-04T17:39:52.751Z"
+    },
+    {
+      "id": "me3bxiz8m",
+      "documentId": "k5n2zr4ch",
+      "title": "Fallback Quiz: UNIT 1 SPM.docx",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "id": "euzm9okgk",
+          "type": "short_answer",
+          "question": "What four characteristics distinguish software projects from traditional engineering projects?",
+          "correctAnswer": "Invisibility (cannot physically see progress), Complexity (highly intricate systems), Conformity (must conform to human rules rather than physical laws), and Flexibility (easily changed, making it highly volatile).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "mg40888fm",
+          "type": "short_answer",
+          "question": "What is the three-step cycle of the organizational control process?",
+          "correctAnswer": "1. Setting Standards (establishing goals/targets), 2. Measuring Performance (gathering metrics), and 3. Taking Corrective Action (fixing deviations).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "yy029njqt",
+          "type": "short_answer",
+          "question": "What are the three main categories of requirements specified in software projects?",
+          "correctAnswer": "1. Functional requirements (what the software must do), 2. Quality requirements (performance, reliability, usability), and 3. Resource requirements (allowable budget and timeline limits).",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "dbept66hs",
+          "type": "short_answer",
+          "question": "What is the difference between external design and physical design?",
+          "correctAnswer": "External design focuses on the user interface, layout, and system appearance, whereas physical design defines how data and procedures are structured internally.",
+          "explanation": "Generated from document flashcards."
+        },
+        {
+          "id": "ysqp153zy",
+          "type": "short_answer",
+          "question": "What are the three categories of costs evaluated in a project Cost-Benefit Analysis (CBA)?",
+          "correctAnswer": "1. Development costs (staff salaries and direct expenses), 2. Setup costs (hardware purchase, file conversion, training), and 3. Operational costs (ongoing daily costs of running the post-installation system).",
+          "explanation": "Generated from document flashcards."
+        }
+      ],
+      "createdAt": "2026-07-04T17:40:25.400Z"
+    }
+  ],
+  "attempts": [
+    {
+      "id": "aycljqvq6",
+      "userId": "guest_tgqt00f4g",
+      "quizId": "x04iu0x6v",
+      "quizTitle": "Software Engineering and Project Management Essentials",
+      "score": 1,
+      "maxScore": 5,
+      "percentage": 20,
+      "grade": "F",
+      "timeTakenSeconds": 115,
+      "answers": {
+        "b09gan9br": "Because software development does not require any initial feasibility study or planning.",
+        "py2ixjjkz": "true",
+        "ovq5kajns": "plan",
+        "aq3uu4rc5": "plan,design,code,developement,testing,deployment",
+        "76uwjjki6": "By totaling the initial setup costs and operational costs."
+      },
+      "confidenceLevel": "medium",
+      "date": "2026-07-04T09:01:05.731Z"
+    },
+    {
+      "id": "tv82kd79b",
+      "userId": "guest_tgqt00f4g",
+      "quizId": "uhl6tpugp",
+      "quizTitle": "Introduction to Software Engineering and Project Management Quiz",
+      "score": 5,
+      "maxScore": 5,
+      "percentage": 100,
+      "grade": "A+",
+      "timeTakenSeconds": 80,
+      "answers": {
+        "hes1jwnjy": "The process of designing, developing, testing, and maintaining software",
+        "am512ysvh": "Invisibility",
+        "1xtqbbjo4": "Sponsors",
+        "jszoyhkep": "Setting Standards",
+        "f0m9tl85u": "Functional requirements"
+      },
+      "confidenceLevel": "medium",
+      "date": "2026-07-04T09:03:58.665Z"
+    },
+    {
+      "id": "cgwesfypa",
+      "userId": "g5jy07ors",
+      "quizId": "ql2ptc9ni",
+      "quizTitle": "Introduction to Software Engineering and Project Management",
+      "score": 3,
+      "maxScore": 5,
+      "percentage": 60,
+      "grade": "C",
+      "timeTakenSeconds": 66,
+      "answers": {
+        "1p3vif6uz": "To develop software applications for improving quality, budget, and time efficiency",
+        "1n96yih3l": "Conformity",
+        "i7fck6lk9": "To investigate whether a prospective project is worth starting",
+        "egc4z4xr8": "Feasibility Study, Detailed Planning, Project Execution",
+        "zknaz9ze6": "Sponsors"
+      },
+      "confidenceLevel": "medium",
+      "date": "2026-07-04T14:29:37.680Z"
+    }
+  ],
+  "chatMessages": [
+    {
+      "id": "6w97fynlc",
+      "documentId": "oa59x575g",
+      "sender": "user",
+      "text": "who are the stakeholders",
+      "timestamp": "2026-07-04T08:57:34.445Z"
+    },
+    {
+      "id": "5ryg53s3y",
+      "documentId": "oa59x575g",
+      "sender": "ai",
+      "text": "Hello! I am **StudyAI**, your academic advisor. I would be happy to explain who stakeholders are and why they are so crucial to a project, using the direct facts from your document.\n\n---\n\n### What is a Stakeholder? (The Simple Analogy)\n\nThink of a software project like **putting on a big school play**. \n* **The Stakeholders** are absolutely everyone who has an interest, a role, or a \"stake\" in how that play turns out. \n* If the play is a massive hit, they celebrate. If it flops, they are affected. \n* Just like in a play, different people have different goals—the lead actor wants applause, the stage manager wants everyone on time, and the principal wants to make sure it doesn’t go over budget!\n\nIn software engineering, **stakeholders** are individuals or groups who can influence or are affected by the project’s goals, decisions, and outcomes.\n\n---\n\n### The Three Categories of Stakeholders\n\nAccording to your document, stakeholders generally fall into three categories based on where they stand in relation to the project team:\n\n1. **Internal to the Project Team:** \n   * These are the people directly under the project leader's managerial control (like the developers and designers working on the code).\n2. **External to the Team, but Internal to the Organization:** \n   * People who work in the same company but aren't on your immediate project team. \n   * *Example:* You might need to negotiate with the company's internal database team to add new data types, or ask other employees to help test the system.\n3. **External to both the Team and the Organization:** \n   * People completely outside the company. Their relationship with the project is usually bound by a legal contract.\n   * *Example:* The external clients buying the software, or independent contractors hired to do specialized work.\n\n---\n\n### Key Stakeholder Roles & Their Impacts\n\nHere is the breakdown of the specific stakeholders mentioned in your document, what they do, and how they impact the project:\n\n| Stakeholder Type | What They Do (Key Responsibilities) | Their Impact on the Project |\n| :--- | :--- | :--- |\n| **Customers** | Define what they need and review the final deliverables. | **Drives business value** (they make sure the project solves the right problem). |\n| **End Users** | Give hands-on feedback and test features. | **Ensures usability** (they make sure the software is actually easy and practical to use). |\n| **Project Managers** | Coordinate all the activities and handle communication. | **Delivers on objectives** (they keep the train on the tracks!). |\n| **Developers** | Write the code and build the technical solutions. | **Achieves technical goals** (they turn ideas into working software). |\n| **Sponsors** | Provide the budget/tools and approve the project's scope. | **Ensures funding** (they are the \"money people\" who make the project possible). |\n| **Regulators** | Set legal compliance criteria and rules. | **Ensures legal validity** (they make sure you don't get into legal trouble). |\n\n### Why are they so important?\nBecause not everyone has the same motivation! For example, while **end users** care about how easy the software is to use, **managers/sponsors** might care more about how much money or staff time the new software will save. A good project manager must identify these stakeholders early to keep communication open and keep everyone happy!\n\nLet me know if you'd like me to summarize any other sections of your document or explain another concept!",
+      "timestamp": "2026-07-04T08:57:43.811Z"
+    },
+    {
+      "id": "ayqmdy42z",
+      "documentId": "k5n2zr4ch",
+      "sender": "user",
+      "text": "what is software engineering",
+      "timestamp": "2026-07-04T14:26:05.993Z"
+    },
+    {
+      "id": "os7tynsih",
+      "documentId": "k5n2zr4ch",
+      "sender": "ai",
+      "text": "Hello! I am **StudyAI**, your elite academic advisor. Let's break down exactly what **Software Engineering** is, using the definition provided in your document.\n\n### What is Software Engineering?\nAccording to your document, **Software Engineering** is the **systematic and disciplined process of designing, developing, testing, and maintaining software.** \n\nInstead of just sitting down and writing code randomly, software engineering uses specific tools, techniques, and methodologies (like requirements analysis, design, testing, and maintenance) to ensure the job is done right. \n\nHere are its key characteristics and goals:\n* **Made for Big Tasks:** It is mainly used for **large-scale software systems** rather than small, single programs or applications.\n* **The \"Triple Crown\" Goal:** Its primary purpose is to deliver software that is **high-quality, reliable, and easy to maintain**, while strictly keeping to the **budget**, **timeline**, and **user requirements**. \n\n---\n\n### 🧱 A Simple Analogy: Building a Birdhouse vs. Constructing a Skyscraper\n\nTo understand why we need \"Software Engineering\" instead of just \"programming,\" let's look at a simple analogy:\n\n* **Writing a simple program** is like building a **wooden birdhouse** in your backyard. You don't need a massive team, a formal blueprint, or strict safety regulations. You can just grab some scrap wood, hammer it together, and if you make a mistake, you can quickly fix it yourself. \n* **Software Engineering** is like constructing a **50-story skyscraper**. You absolutely cannot \"wing it.\" You need detailed blueprints (design and architecture), strict safety inspections (testing and validation), a clear budget, and coordinates for a massive team of workers. If you don't use a highly disciplined, systematic engineering approach, the building will collapse. \n\nIn short, Software Engineering is the rigorous \"skyscraper blueprint\" method applied to building massive, reliable digital systems!",
+      "timestamp": "2026-07-04T14:26:15.829Z"
+    },
+    {
+      "id": "zllz9xzzo",
+      "documentId": "k5n2zr4ch",
+      "sender": "user",
+      "text": "what is invisibility",
+      "timestamp": "2026-07-04T17:35:03.766Z"
+    }
+  ]
+}
